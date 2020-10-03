@@ -1,0 +1,7682 @@
+[
+	{
+		"datasetid": "country-flags",
+		"recordid": "d661d0a8676bf4d7563114c1d9c465987df22132",
+		"fields": {
+			"num_un": 32,
+			"geolocation": [
+				-38.416097,
+				-63.616672
+			],
+			"dialing_code": "54",
+			"a3_un": "ARG",
+			"country": "Argentina",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "ar.png",
+				"width": 16,
+				"id": "fceb4235ce95c8597bfa77d0db0181a0",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "AR"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-63.616672,
+				-38.416097
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "a4df5c3c7ed433a791ac38504c29e748ca3a63f5",
+		"fields": {
+			"num_un": 86,
+			"geolocation": [
+				-6.343194,
+				71.876519
+			],
+			"dialing_code": "246",
+			"a3_un": "IOT",
+			"country": "British Indian Ocean Territory",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "io.png",
+				"width": 16,
+				"id": "de535d413716608f540811980bf864d8",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "IO"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				71.876519,
+				-6.343194
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "6749e4a50fe46290459a809bfc7f59ec1a1ccefd",
+		"fields": {
+			"num_un": 616,
+			"geolocation": [
+				51.919438,
+				19.145136
+			],
+			"dialing_code": "48",
+			"a3_un": "POL",
+			"country": "Poland",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "pl.png",
+				"width": 16,
+				"id": "5cc018422c8c781c9292bff98327aa29",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "PL"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				19.145136,
+				51.919438
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "a585e21f53685c596c3fad9c9a8fd3789c18b491",
+		"fields": {
+			"num_un": 132,
+			"geolocation": [
+				16.002082,
+				-24.013197
+			],
+			"dialing_code": "238",
+			"a3_un": "CPV",
+			"country": "Cape Verde",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "cv.png",
+				"width": 16,
+				"id": "1319ffdf421cd34eb1aa92877af9fdfe",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "CV"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-24.013197,
+				16.002082
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "d9fdcafb595845816cec057134ffed458517b4c5",
+		"fields": {
+			"num_un": 760,
+			"geolocation": [
+				34.802075,
+				38.996815
+			],
+			"dialing_code": "963",
+			"a3_un": "SYR",
+			"country": "Syrian Arab Republic",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "sy.png",
+				"width": 16,
+				"id": "c9497df3fb5c52c44a26743945ecd3be",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "SY"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				38.996815,
+				34.802075
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "290f858120f87c5fd1a9586fc5fd738061a0ea22",
+		"fields": {
+			"num_un": 764,
+			"geolocation": [
+				15.870032,
+				100.992541
+			],
+			"dialing_code": "66",
+			"a3_un": "THA",
+			"country": "Thailand",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "th.png",
+				"width": 16,
+				"id": "a4ac5f10295a01af439965129fe051e0",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "TH"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				100.992541,
+				15.870032
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "1108fcca4e156318ff94f768979eacff5e05a609",
+		"fields": {
+			"num_un": 68,
+			"geolocation": [
+				-16.290154,
+				-63.588653
+			],
+			"dialing_code": "591",
+			"a3_un": "BOL",
+			"country": "Bolivia",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "bo.png",
+				"width": 16,
+				"id": "41ee14cf094e5c7ca70f0e40bbec4d22",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "BO"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-63.588653,
+				-16.290154
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "b8a9d50845ea94f163f0b846c867079d65d9d266",
+		"fields": {
+			"num_un": 450,
+			"geolocation": [
+				-18.766947,
+				46.869107
+			],
+			"dialing_code": "261",
+			"a3_un": "MDG",
+			"country": "Madagascar",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "mg.png",
+				"width": 16,
+				"id": "05a7793bb9784e7b5d540bd5094cf5b8",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "MG"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				46.869107,
+				-18.766947
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "d91782320ba2d220b581c26e6894dc8311124f0a",
+		"fields": {
+			"num_un": 474,
+			"geolocation": [
+				14.641528,
+				-61.024174
+			],
+			"dialing_code": "596",
+			"a3_un": "MTQ",
+			"country": "Martinique",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "mq.png",
+				"width": 16,
+				"id": "882fd913cb0fb443fefb72478a556571",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "MQ"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-61.024174,
+				14.641528
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "09ab3e2157b24edba95894b403648b8f7f04a8b7",
+		"fields": {
+			"num_un": 372,
+			"geolocation": [
+				53.41291,
+				-8.24389
+			],
+			"dialing_code": "353",
+			"a3_un": "IRL",
+			"country": "Ireland",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "ie.png",
+				"width": 16,
+				"id": "afd066573dd52dbda2738cab39990eb0",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "IE"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-8.24389,
+				53.41291
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "613eeb02fa03ff4cf6767071f5559e164bf84336",
+		"fields": {
+			"num_un": 454,
+			"geolocation": [
+				-13.254308,
+				34.301525
+			],
+			"dialing_code": "265",
+			"a3_un": "MWI",
+			"country": "Malawi",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "mw.png",
+				"width": 16,
+				"id": "a8510cf614627eee64deb09bb7abc592",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "MW"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				34.301525,
+				-13.254308
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "01ef775e108fd47ebd89f96019055bd8d306f15e",
+		"fields": {
+			"num_un": 231,
+			"geolocation": [
+				9.145,
+				40.489673
+			],
+			"dialing_code": "251",
+			"a3_un": "ETH",
+			"country": "Ethiopia",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "et.png",
+				"width": 16,
+				"id": "b184fbe94dcfc85a490cec002c71851c",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "ET"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				40.489673,
+				9.145
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "068fa1fbb9a01758a8b82def1826efde145a9ef9",
+		"fields": {
+			"num_un": 480,
+			"geolocation": [
+				-20.348404,
+				57.552152
+			],
+			"dialing_code": "230",
+			"a3_un": "MUS",
+			"country": "Mauritius",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "mu.png",
+				"width": 16,
+				"id": "52191e4504fc2a9f3bdd76c78317a24c",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "MU"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				57.552152,
+				-20.348404
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "3450bb10822514a9637eba999dd3e629d8468e3e",
+		"fields": {
+			"num_un": 586,
+			"geolocation": [
+				30.375321,
+				69.345116
+			],
+			"dialing_code": "92",
+			"a3_un": "PAK",
+			"country": "Pakistan",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "pk.png",
+				"width": 16,
+				"id": "04d180237a4008916b034e0d98dcd7ee",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "PK"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				69.345116,
+				30.375321
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "698cf413711358283670a2a9c9ddb7abb6f4b822",
+		"fields": {
+			"num_un": 458,
+			"geolocation": [
+				4.210484,
+				101.975766
+			],
+			"dialing_code": "60",
+			"a3_un": "MYS",
+			"country": "Malaysia",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "my.png",
+				"width": 16,
+				"id": "537d32e386f1d1d319fab138472b1f3e",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "MY"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				101.975766,
+				4.210484
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "ebff6588d74a92627f4d3e11289bf131c9164592",
+		"fields": {
+			"num_un": 308,
+			"geolocation": [
+				12.262776,
+				-61.604171
+			],
+			"dialing_code": "1-473",
+			"a3_un": "GRD",
+			"country": "Grenada",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "gd.png",
+				"width": 16,
+				"id": "3d81208d89931970cbb6030a39de1997",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "GD"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-61.604171,
+				12.262776
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "aff6ae181a5054bdab9ab2c2978ba41c01d86afd",
+		"fields": {
+			"num_un": 196,
+			"geolocation": [
+				35.126413,
+				33.429859
+			],
+			"dialing_code": "357",
+			"a3_un": "CYP",
+			"country": "Cyprus",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "cy.png",
+				"width": 16,
+				"id": "3d395191d1d801f24bbca9f594766bf2",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "CY"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				33.429859,
+				35.126413
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "1d9050a6c35abbcb54a30ad214e232b8f8674a90",
+		"fields": {
+			"num_un": 332,
+			"geolocation": [
+				18.971187,
+				-72.285215
+			],
+			"dialing_code": "509",
+			"a3_un": "HTI",
+			"country": "Haiti",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "ht.png",
+				"width": 16,
+				"id": "73883a5197864495a0877d848e70dea6",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "HT"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-72.285215,
+				18.971187
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "6903f6905abc6e9b0c8abd9230a897b9f46f0115",
+		"fields": {
+			"num_un": 876,
+			"geolocation": [
+				-13.768752,
+				-177.156097
+			],
+			"dialing_code": "681",
+			"a3_un": "WLF",
+			"country": "Wallis and Futuna",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "wf.png",
+				"width": 16,
+				"id": "d3d12bdaa1ca230f69fdcdabb818cd5a",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "WF"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-177.156097,
+				-13.768752
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "1373f86a55f3dc2474ff8743e8e7232f6b68007f",
+		"fields": {
+			"num_un": 100,
+			"geolocation": [
+				42.733883,
+				25.48583
+			],
+			"dialing_code": "359",
+			"a3_un": "BGR",
+			"country": "Bulgaria",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "bg.png",
+				"width": 16,
+				"id": "62ea50684d24823319a5b840d6c76c63",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "BG"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				25.48583,
+				42.733883
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "7515a7af35497d15fac2cb72b2bce03ca259a39e",
+		"fields": {
+			"num_un": 566,
+			"geolocation": [
+				9.081999,
+				8.675277
+			],
+			"dialing_code": "234",
+			"a3_un": "NGA",
+			"country": "Nigeria",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "ng.png",
+				"width": 16,
+				"id": "2a7663b6ae33416a2fdcbdc7618dbbca",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "NG"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				8.675277,
+				9.081999
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "70b8446758a9b4e1a1980866852aaf7e5c47ac0e",
+		"fields": {
+			"num_un": 591,
+			"geolocation": [
+				8.537981,
+				-80.782127
+			],
+			"dialing_code": "507",
+			"a3_un": "PAN",
+			"country": "Panama",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "pa.png",
+				"width": 16,
+				"id": "39d03febd31001c2638932968edd1247",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "PA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-80.782127,
+				8.537981
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "d85b4a7745b46a03c549f363b6eff279d8a7e8fc",
+		"fields": {
+			"num_un": 704,
+			"geolocation": [
+				14.058324,
+				108.277199
+			],
+			"dialing_code": "84",
+			"a3_un": "VNM",
+			"country": "Viet Nam",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "vn.png",
+				"width": 16,
+				"id": "44f9534ef9b4c0429693250ed831e685",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "VN"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				108.277199,
+				14.058324
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "6503219e44c580436daf62691a057e9d751b6cc6",
+		"fields": {
+			"num_un": 705,
+			"geolocation": [
+				46.151241,
+				14.995463
+			],
+			"dialing_code": "386",
+			"a3_un": "SVN",
+			"country": "Slovenia",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "si.png",
+				"width": 16,
+				"id": "b190e21bac75fb4acaf08dabbbf2454e",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "SI"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				14.995463,
+				46.151241
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "bcc0a22e2da44c32a58e0f8de7e45a7cb34416c2",
+		"fields": {
+			"num_un": 584,
+			"geolocation": [
+				7.131474,
+				171.184478
+			],
+			"dialing_code": "692",
+			"a3_un": "MHL",
+			"country": "Marshall Islands",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "mh.png",
+				"width": 16,
+				"id": "03ebe236af045c728047099fa7cca810",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "MH"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				171.184478,
+				7.131474
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "59a24aa2bdca1b963f9a8d3533fbd236864d3b80",
+		"fields": {
+			"num_un": 682,
+			"geolocation": [
+				23.885942,
+				45.079162
+			],
+			"dialing_code": "966",
+			"a3_un": "SAU",
+			"country": "Saudi Arabia",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "sa.png",
+				"width": 16,
+				"id": "95eb84e50f9019351f875c2807d7891a",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "SA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.079162,
+				23.885942
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "b3ea9e5b9d7ee314c2ff33a5aeda447959dabe7f",
+		"fields": {
+			"num_un": 580,
+			"geolocation": [
+				17.33083,
+				145.38469
+			],
+			"dialing_code": "1-670",
+			"a3_un": "MNP",
+			"country": "Northern Mariana Islands",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "mp.png",
+				"width": 16,
+				"id": "2471ac5e07da4912ac6b7c3973a3385b",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "MP"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				145.38469,
+				17.33083
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "b0762bffd52c9b7c0eae934bee591e67294f9940",
+		"fields": {
+			"num_un": 478,
+			"geolocation": [
+				21.00789,
+				-10.940835
+			],
+			"dialing_code": "222",
+			"a3_un": "MRT",
+			"country": "Mauritania",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "mr.png",
+				"width": 16,
+				"id": "197122e38f4ff45746e3d8003b8c735f",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "MR"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-10.940835,
+				21.00789
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "d857659d2d86e40cc8b42c62d5fc3aa41cbdd8f7",
+		"fields": {
+			"num_un": 28,
+			"geolocation": [
+				17.060816,
+				-61.796428
+			],
+			"dialing_code": "1-268",
+			"a3_un": "ATG",
+			"country": "Antigua and Barbuda",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "ag.png",
+				"width": 16,
+				"id": "71b8963e1acd907edc306a490256068f",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "AG"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-61.796428,
+				17.060816
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "fa61953b56a069f7fca01c3b1b46fe5f572bc15d",
+		"fields": {
+			"num_un": 534,
+			"geolocation": [
+				17.9354845,
+				-63.1540832363
+			],
+			"dialing_code": "1-721",
+			"a3_un": "SXM",
+			"country": "Sint Maarten (Dutch part)",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "sx.png",
+				"width": 16,
+				"id": "653f5ed21b62b396503f625deb3a2c8b",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "SX"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-63.1540832363,
+				17.9354845
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "794554bab4c477269eb9865b2976950f9b0a3a93",
+		"fields": {
+			"num_un": 31,
+			"geolocation": [
+				40.143105,
+				47.576927
+			],
+			"dialing_code": "994",
+			"a3_un": "AZE",
+			"country": "Azerbaijan",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "az.png",
+				"width": 16,
+				"id": "2ca0ae8ed4680a6fcaa91591469d6d55",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "AZ"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				47.576927,
+				40.143105
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "a6003bce5c4b7efd2e4f69b882a7d2529a31e4a6",
+		"fields": {
+			"num_un": 92,
+			"geolocation": [
+				18.4024395,
+				-64.5661642
+			],
+			"dialing_code": "1-284",
+			"a3_un": "VGB",
+			"country": "British Virgin Islands",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "vg.png",
+				"width": 16,
+				"id": "d95248cc0760470d32fb2a181dc3d72b",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "VG"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-64.5661642,
+				18.4024395
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "c9d914c754785e7cf75dc1edd36dd2f9327adf6a",
+		"fields": {
+			"num_un": 800,
+			"geolocation": [
+				1.373333,
+				32.290275
+			],
+			"dialing_code": "256",
+			"a3_un": "UGA",
+			"country": "Uganda",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "ug.png",
+				"width": 16,
+				"id": "14519ec64df75a1bba94028fc8f6d458",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "UG"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				32.290275,
+				1.373333
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "cce88bf919a67282bab74298987d619a257fe86d",
+		"fields": {
+			"num_un": 316,
+			"geolocation": [
+				13.444304,
+				144.793731
+			],
+			"dialing_code": "1-671",
+			"a3_un": "GUM",
+			"country": "Guam",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "gu.png",
+				"width": 16,
+				"id": "6ebee23d9b2cecfce0833fe5f6806e40",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "GU"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				144.793731,
+				13.444304
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "d519bfd211cc528b401ccddcbd0ff37bd4bc70c4",
+		"fields": {
+			"num_un": 162,
+			"geolocation": [
+				-10.447525,
+				105.690449
+			],
+			"dialing_code": "61",
+			"a3_un": "CXR",
+			"country": "Christmas Island",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "cx.png",
+				"width": 16,
+				"id": "96913e49f8062fff9d7a084d0caf70e1",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "CX"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				105.690449,
+				-10.447525
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "6ea6d47fb0954c15ef566a5d9cdac51f2521ad00",
+		"fields": {
+			"num_un": 531,
+			"geolocation": [
+				12.1845,
+				-68.9640918594
+			],
+			"dialing_code": "599",
+			"a3_un": "CUW",
+			"country": "Cura\u00c3\u00a7ao",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "cw.png",
+				"width": 16,
+				"id": "9a517bb280677e4816363e87c0e325b8",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "CW"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-68.9640918594,
+				12.1845
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "0077c2231c81c3920156e84dd3834b513eea28c1",
+		"fields": {
+			"num_un": 585,
+			"geolocation": [
+				7.514979999999999,
+				134.58252
+			],
+			"dialing_code": "680",
+			"a3_un": "PLW",
+			"country": "Palau",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "pw.png",
+				"width": 16,
+				"id": "9fcb9a64ecd3dd3723b682af59e51df5",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "PW"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				134.58252,
+				7.514979999999999
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "1135bbdef94d9e4a27f2e03872b6839d73529b03",
+		"fields": {
+			"num_un": 583,
+			"geolocation": [
+				7.425554,
+				150.550812
+			],
+			"dialing_code": "691",
+			"a3_un": "FSM",
+			"country": "Micronesia, Federated States of",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "fm.png",
+				"width": 16,
+				"id": "79e054a3634fab54b9a64bf2b7c2b771",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "FM"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				150.550812,
+				7.425554
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "1e4d0b1cdb1e68482467b7d1e40d1868ba23c172",
+		"fields": {
+			"num_un": 887,
+			"geolocation": [
+				15.552727,
+				48.516388
+			],
+			"dialing_code": "967",
+			"a3_un": "YEM",
+			"country": "Yemen",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "ye.png",
+				"width": 16,
+				"id": "61dfe109a61bf7202cb3be966b75a61c",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "YE"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				48.516388,
+				15.552727
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "0ff5b1c4483dc0c98e2bb15ecfb45e167bdb04fe",
+		"fields": {
+			"num_un": 694,
+			"geolocation": [
+				8.460555,
+				-11.779889
+			],
+			"dialing_code": "232",
+			"a3_un": "SLE",
+			"country": "Sierra Leone",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "sl.png",
+				"width": 16,
+				"id": "3029b29f47e9f1f72da24607c935dd5d",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "SL"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-11.779889,
+				8.460555
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "beebbaa6ef62e6e2b1940c4287de96004e151dfa",
+		"fields": {
+			"num_un": 703,
+			"geolocation": [
+				48.669026,
+				19.699024
+			],
+			"dialing_code": "421",
+			"a3_un": "SVK",
+			"country": "Slovakia",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "sk.png",
+				"width": 16,
+				"id": "8066caf220b69fd75d4df4fc7e7f83c8",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "SK"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				19.699024,
+				48.669026
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "5b9b191594e095b9d541ff46cae5b24eec3d3523",
+		"fields": {
+			"num_un": 520,
+			"geolocation": [
+				-0.522778,
+				166.931503
+			],
+			"dialing_code": "674",
+			"a3_un": "NRU",
+			"country": "Nauru",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "nr.png",
+				"width": 16,
+				"id": "12ce68535eb00225a1ae718e6b637570",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "NR"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				166.931503,
+				-0.522778
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "8abab8f09a1887accf9a2248dc7576fc43374fa1",
+		"fields": {
+			"num_un": 191,
+			"geolocation": [
+				45.1,
+				15.2
+			],
+			"dialing_code": "385",
+			"a3_un": "HRV",
+			"country": "Croatia",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "hr.png",
+				"width": 16,
+				"id": "decff4035d472d3e6a994b243246fe64",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "HR"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				15.2,
+				45.1
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "c9fbe4cdb7b64245c989b57a762c1bcb176f053c",
+		"fields": {
+			"num_un": 608,
+			"geolocation": [
+				12.879721,
+				121.774017
+			],
+			"dialing_code": "63",
+			"a3_un": "PHL",
+			"country": "Philippines",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "ph.png",
+				"width": 16,
+				"id": "a85416ff95494fce5300170f21cb6694",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "PH"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				121.774017,
+				12.879721
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "3b7e7cf0cfafd82d6d04b3aecfa4d379b796cf2a",
+		"fields": {
+			"num_un": 320,
+			"geolocation": [
+				15.783471,
+				-90.230759
+			],
+			"dialing_code": "502",
+			"a3_un": "GTM",
+			"country": "Guatemala",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "gt.png",
+				"width": 16,
+				"id": "ef7c6e4380b0c84b3ca6f76996e39778",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "GT"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-90.230759,
+				15.783471
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "10cc1387dd2fb2821a71e4fba1d9a12646490c08",
+		"fields": {
+			"num_un": 470,
+			"geolocation": [
+				35.937496,
+				14.375416
+			],
+			"dialing_code": "356",
+			"a3_un": "MLT",
+			"country": "Malta",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "mt.png",
+				"width": 16,
+				"id": "ffb725e194ece35cb414d584ebd590a2",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "MT"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				14.375416,
+				35.937496
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "f454cd5e0cc17bc473047287f9c7d0912a5cb210",
+		"fields": {
+			"num_un": 446,
+			"geolocation": [
+				22.198745,
+				113.543873
+			],
+			"dialing_code": "853",
+			"a3_un": "MAC",
+			"country": "Macao",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "mo.png",
+				"width": 16,
+				"id": "a3a926f8d598e6a5a4715043dc7cf93a",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "MO"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				113.543873,
+				22.198745
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "4f4ec74c6b3522c96de52665e4d859d223ac5811",
+		"fields": {
+			"num_un": 218,
+			"geolocation": [
+				-1.831239,
+				-78.183406
+			],
+			"dialing_code": "593",
+			"a3_un": "ECU",
+			"country": "Ecuador",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "ec.png",
+				"width": 16,
+				"id": "ac92fb94582adaea73bcbb01d18d9f5e",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "EC"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-78.183406,
+				-1.831239
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "e2be66dc8b9da61a9c3b074ecb8f580b3c4b737e",
+		"fields": {
+			"num_un": 48,
+			"geolocation": [
+				25.930414,
+				50.637772
+			],
+			"dialing_code": "973",
+			"a3_un": "BHR",
+			"country": "Bahrain",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "bh.png",
+				"width": 16,
+				"id": "3c4edb4117b69aa4fa057e3d7e34ef34",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "BH"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				50.637772,
+				25.930414
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "6d8489b5ffacccdd772d4ae9ce6db7b7871dcd03",
+		"fields": {
+			"num_un": 862,
+			"geolocation": [
+				6.42375,
+				-66.58973
+			],
+			"dialing_code": "58",
+			"a3_un": "VEN",
+			"country": "Venezuela",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "ve.png",
+				"width": 16,
+				"id": "3e95dcb56e85877b9c7bb3c2a4c9af75",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "VE"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-66.58973,
+				6.42375
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "fff3a9aad7c36f34c1a54d53adafe8b095d29aa9",
+		"fields": {
+			"num_un": 795,
+			"geolocation": [
+				38.969719,
+				59.556278
+			],
+			"dialing_code": "993",
+			"a3_un": "TKM",
+			"country": "Turkmenistan",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "tm.png",
+				"width": 16,
+				"id": "0696968a08acabef3e5ecd93ad7d0a10",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "TM"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				59.556278,
+				38.969719
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "f82ca6c7f5965f72d0aa8572bee9c25e4f82de09",
+		"fields": {
+			"num_un": 288,
+			"geolocation": [
+				7.946527,
+				-1.023194
+			],
+			"dialing_code": "233",
+			"a3_un": "GHA",
+			"country": "Ghana",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "gh.png",
+				"width": 16,
+				"id": "3993d8f9e779d2d797c707e6061b5918",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "GH"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-1.023194,
+				7.946527
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "1bbb463c31992cfc255f5c5da9f9c089f7529f05",
+		"fields": {
+			"num_un": 76,
+			"geolocation": [
+				-14.235004,
+				-51.92528
+			],
+			"dialing_code": "55",
+			"a3_un": "BRA",
+			"country": "Brazil",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "br.png",
+				"width": 16,
+				"id": "6bff439781ae6f98974ad584e5aaf61f",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "BR"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-51.92528,
+				-14.235004
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "9fa495ab1d427eebc11d7b638b514f0d53a92c22",
+		"fields": {
+			"num_un": 174,
+			"geolocation": [
+				-11.875001,
+				43.872219
+			],
+			"dialing_code": "269",
+			"a3_un": "COM",
+			"country": "Comoros",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "km.png",
+				"width": 16,
+				"id": "1ae297b3a76e9d8b9a3bd327327ab679",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "KM"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.872219,
+				-11.875001
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "beebedf6f1ec0a4d4ff418dd406f535a02e67e74",
+		"fields": {
+			"num_un": 232,
+			"geolocation": [
+				15.179384,
+				39.782334
+			],
+			"dialing_code": "291",
+			"a3_un": "ERI",
+			"country": "Eritrea",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "er.png",
+				"width": 16,
+				"id": "9726ce4aa576c21c53d2cd87d065c341",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "ER"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				39.782334,
+				15.179384
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "24c179e50458c4770f7f9c2b0483d6e16267881d",
+		"fields": {
+			"num_un": 422,
+			"geolocation": [
+				33.854721,
+				35.862285
+			],
+			"dialing_code": "961",
+			"a3_un": "LBN",
+			"country": "Lebanon",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "lb.png",
+				"width": 16,
+				"id": "6f48a01424d8ecdfdce7aa7d7f48f526",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "LB"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				35.862285,
+				33.854721
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "056ce93cca5cb2e75838cbe51ded2ad141e19e49",
+		"fields": {
+			"num_un": 642,
+			"geolocation": [
+				45.943161,
+				24.96676
+			],
+			"dialing_code": "40",
+			"a3_un": "ROU",
+			"country": "Romania",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "ro.png",
+				"width": 16,
+				"id": "e7e2f29ba1bb120bcaa0b9ba1648a5a1",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "RO"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				24.96676,
+				45.943161
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "c8fe03ea730fab4be9bb98f08404acc81f527914",
+		"fields": {
+			"num_un": 788,
+			"geolocation": [
+				33.886917,
+				9.537499
+			],
+			"dialing_code": "216",
+			"a3_un": "TUN",
+			"country": "Tunisia",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "tn.png",
+				"width": 16,
+				"id": "7f9309a192a63a9be117802b6c3b17de",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "TN"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				9.537499,
+				33.886917
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "4075e92eabbdb09fdfd9273e16373ae03c1e952f",
+		"fields": {
+			"num_un": 148,
+			"geolocation": [
+				15.454166,
+				18.732207
+			],
+			"dialing_code": "235",
+			"a3_un": "TCD",
+			"country": "Chad",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "td.png",
+				"width": 16,
+				"id": "a0639ba615926c1a19def8c010e007a4",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "TD"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				18.732207,
+				15.454166
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "fb7c6b1d86b5db196839388d15c6abefc8586873",
+		"fields": {
+			"num_un": 360,
+			"geolocation": [
+				-0.789275,
+				113.921327
+			],
+			"dialing_code": "62",
+			"a3_un": "IDN",
+			"country": "Indonesia",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "id.png",
+				"width": 16,
+				"id": "eeaeac2bda86396b698077128c0fdfcf",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "ID"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				113.921327,
+				-0.789275
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "7497f283fc34d72d604f678e3784d7ed91c759de",
+		"fields": {
+			"num_un": 20,
+			"geolocation": [
+				42.546245,
+				1.601554
+			],
+			"dialing_code": "376",
+			"a3_un": "AND",
+			"country": "Andorra",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "ad.png",
+				"width": 16,
+				"id": "e5f4fe24dacb71edd792260734fe7b3b",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "AD"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				1.601554,
+				42.546245
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "1320ce339f6140938f9a40d9ec54bfd1d788a938",
+		"fields": {
+			"num_un": 203,
+			"geolocation": [
+				49.817492,
+				15.472962
+			],
+			"dialing_code": "420",
+			"a3_un": "CZE",
+			"country": "Czech Republic",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "cz.png",
+				"width": 16,
+				"id": "731d0b1c190b6aed3a9ae988dd190592",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "CZ"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				15.472962,
+				49.817492
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "c6124907f377d370e2045e7b6008e4bbb3db386e",
+		"fields": {
+			"num_un": 484,
+			"geolocation": [
+				23.634501,
+				-102.552784
+			],
+			"dialing_code": "52",
+			"a3_un": "MEX",
+			"country": "Mexico",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "mx.png",
+				"width": 16,
+				"id": "4bc7fb3addf338f5a2b87007d301bf97",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "MX"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-102.552784,
+				23.634501
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "6e883dca31f77f0cd9228cd4a81eeec8a744c58d",
+		"fields": {
+			"num_un": 4,
+			"geolocation": [
+				33.93911,
+				67.709953
+			],
+			"dialing_code": "93",
+			"a3_un": "AFG",
+			"country": "Afghanistan",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "af.png",
+				"width": 16,
+				"id": "81a299556623a7e4a3ce3ffb1439c40b",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "AF"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				67.709953,
+				33.93911
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "bc1817ddd4d215a1c34b6a12a2a8166a507be659",
+		"fields": {
+			"num_un": 428,
+			"geolocation": [
+				56.879635,
+				24.603189
+			],
+			"dialing_code": "371",
+			"a3_un": "LVA",
+			"country": "Latvia",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "lv.png",
+				"width": 16,
+				"id": "36324dd0cd1e4b5fd6d4cefb655f1fa1",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "LV"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				24.603189,
+				56.879635
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "a904c804c325f9fbcee7be68abe6e37dec0420dd",
+		"fields": {
+			"num_un": 262,
+			"geolocation": [
+				11.825137999999999,
+				42.590275
+			],
+			"dialing_code": "253",
+			"a3_un": "DJI",
+			"country": "Djibouti",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "dj.png",
+				"width": 16,
+				"id": "97569f985cf26ce9fdbe676096f8fcb1",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "DJ"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				42.590275,
+				11.825137999999999
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "d46d5929906a9f5db68d15f9e224015a68efda74",
+		"fields": {
+			"num_un": 56,
+			"geolocation": [
+				50.503887,
+				4.469936
+			],
+			"dialing_code": "32",
+			"a3_un": "BEL",
+			"country": "Belgium",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "be.png",
+				"width": 16,
+				"id": "5a4c164f687620f910b7b436c083224a",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "BE"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				4.469936,
+				50.503887
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "8b8861d106e823e919e9751e1b0c0314af891d7b",
+		"fields": {
+			"num_un": 324,
+			"geolocation": [
+				9.945587,
+				-9.696645
+			],
+			"dialing_code": "224",
+			"a3_un": "GIN",
+			"country": "Guinea",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "gn.png",
+				"width": 16,
+				"id": "4552989ff83f082b7622a60d4749135a",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "GN"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-9.696645,
+				9.945587
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "dbe664d7dbf71ea5e44ac2f4c1dbde269eb98562",
+		"fields": {
+			"num_un": 882,
+			"geolocation": [
+				-13.759029,
+				-172.104629
+			],
+			"dialing_code": "685",
+			"a3_un": "WSM",
+			"country": "Samoa",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "ws.png",
+				"width": 16,
+				"id": "0af42062bd791909c78332ce16a42bf1",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "WS"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-172.104629,
+				-13.759029
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "65192320cc94ccdede5b91a7db518d6c3528b12f",
+		"fields": {
+			"num_un": 36,
+			"geolocation": [
+				-25.274398,
+				133.775136
+			],
+			"dialing_code": "61",
+			"a3_un": "AUS",
+			"country": "Australia",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "au.png",
+				"width": 16,
+				"id": "b6d336b31dd85d27798e54575bd70762",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "AU"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				133.775136,
+				-25.274398
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "b6ce9c03c8f4ea9c0e027f87c6394f7a352e395a",
+		"fields": {
+			"num_un": 504,
+			"geolocation": [
+				31.791702,
+				-7.09262
+			],
+			"dialing_code": "212",
+			"a3_un": "MAR",
+			"country": "Morocco",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "ma.png",
+				"width": 16,
+				"id": "3f62adb641dc06012be027b40eaaaf14",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "MA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-7.09262,
+				31.791702
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "5c1572c9617f55698cf050c27c2ea4484ecfb332",
+		"fields": {
+			"num_un": 388,
+			"geolocation": [
+				18.109581,
+				-77.297508
+			],
+			"dialing_code": "1-876",
+			"a3_un": "JAM",
+			"country": "Jamaica",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "jm.png",
+				"width": 16,
+				"id": "942e7ddf931128d79300a774b22f34a0",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "JM"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-77.297508,
+				18.109581
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "3d65b2024ca239a179a219405a628ba851051cd8",
+		"fields": {
+			"num_un": 831,
+			"geolocation": [
+				49.465691,
+				-2.585277999999999
+			],
+			"dialing_code": "44",
+			"a3_un": "GGY",
+			"country": "Guernsey",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "gg.png",
+				"width": 16,
+				"id": "1c57b92e924f4094092147571ce9ba36",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "GG"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-2.585277999999999,
+				49.465691
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "5ce7759dd59d610a2d639688a2d519b3a42bcc16",
+		"fields": {
+			"num_un": 233,
+			"geolocation": [
+				58.595272,
+				25.013607
+			],
+			"dialing_code": "372",
+			"a3_un": "EST",
+			"country": "Estonia",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "ee.png",
+				"width": 16,
+				"id": "6d0fba7ebec4d2197972484950521888",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "EE"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				25.013607,
+				58.595272
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "91570fae54937a5857a8a304218b6e62274066bb",
+		"fields": {
+			"num_un": 528,
+			"geolocation": [
+				52.132633,
+				5.291266
+			],
+			"dialing_code": "31",
+			"a3_un": "NLD",
+			"country": "Netherlands",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "nl.png",
+				"width": 16,
+				"id": "c61bdc9976f1fd01098a91c5882e3f5e",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "NL"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				5.291266,
+				52.132633
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "2b9c0dfec682c614f3ff831d494771478d2df163",
+		"fields": {
+			"num_un": 752,
+			"geolocation": [
+				60.128161,
+				18.643501
+			],
+			"dialing_code": "46",
+			"a3_un": "SWE",
+			"country": "Sweden",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "se.png",
+				"width": 16,
+				"id": "1af429e6e64e462f21e61957c1478e5d",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "SE"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				18.643501,
+				60.128161
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "8043c74bf14d47de04cc4ec605205bd07e0dd24a",
+		"fields": {
+			"num_un": 462,
+			"geolocation": [
+				3.202778,
+				73.22068
+			],
+			"dialing_code": "960",
+			"a3_un": "MDV",
+			"country": "Maldives",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "mv.png",
+				"width": 16,
+				"id": "2cc80620e56728983507ae11d2bc02a7",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "MV"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				73.22068,
+				3.202778
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "a69a0b864e155d5bbe5c3e8fc61e9059817c85fb",
+		"fields": {
+			"num_un": 222,
+			"geolocation": [
+				13.794185,
+				-88.89653
+			],
+			"dialing_code": "503",
+			"a3_un": "SLV",
+			"country": "El Salvador",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "sv.png",
+				"width": 16,
+				"id": "a32fb07925bb14be507e706737d6e187",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "SV"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-88.89653,
+				13.794185
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "0d8cd4d4a60382aab63fd17355afa7ef211965a6",
+		"fields": {
+			"num_un": 152,
+			"geolocation": [
+				-35.675147,
+				-71.542969
+			],
+			"dialing_code": "56",
+			"a3_un": "CHL",
+			"country": "Chile",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "cl.png",
+				"width": 16,
+				"id": "2076d140f969d0557f9fc0571411609b",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "CL"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-71.542969,
+				-35.675147
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "3357c35184a7bbb6a5cd92e3c55d0980b361004a",
+		"fields": {
+			"num_un": 732,
+			"geolocation": [
+				24.215527,
+				-12.885834
+			],
+			"dialing_code": "212",
+			"a3_un": "ESH",
+			"country": "Western Sahara",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "eh.png",
+				"width": 16,
+				"id": "95c4ed56361b0aef6af8db8b16ae1d79",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "EH"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-12.885834,
+				24.215527
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "af97f1b8c328e05dab6177a7fe866a44cb2a2460",
+		"fields": {
+			"num_un": 414,
+			"geolocation": [
+				29.31166,
+				47.481766
+			],
+			"dialing_code": "965",
+			"a3_un": "KWT",
+			"country": "Kuwait",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "kw.png",
+				"width": 16,
+				"id": "6add268447e6c1809f7c38e96af90f43",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "KW"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				47.481766,
+				29.31166
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "44e40ca7712773e10004933146c40a455b2c467e",
+		"fields": {
+			"num_un": 60,
+			"geolocation": [
+				32.321384,
+				-64.75737
+			],
+			"dialing_code": "1-441",
+			"a3_un": "BMU",
+			"country": "Bermuda",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "bm.png",
+				"width": 16,
+				"id": "bc6e85408797dcbe173ee73579777d4d",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "BM"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-64.75737,
+				32.321384
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "adf04532a7a566cd6735dad6894d43aa8cd424e5",
+		"fields": {
+			"num_un": 208,
+			"geolocation": [
+				56.26392,
+				9.501785
+			],
+			"dialing_code": "45",
+			"a3_un": "DNK",
+			"country": "Denmark",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "dk.png",
+				"width": 16,
+				"id": "67a8ebe669a551c2bc0b54044d813c24",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "DK"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				9.501785,
+				56.26392
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "6551148090d6c58d5deeb397d8e894d11166eaad",
+		"fields": {
+			"num_un": 8,
+			"geolocation": [
+				41.153332,
+				20.168331
+			],
+			"dialing_code": "355",
+			"a3_un": "ALB",
+			"country": "Albania",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "al.png",
+				"width": 16,
+				"id": "b8bb05e94ed8019b058a61e5104f0bda",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "AL"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				20.168331,
+				41.153332
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "e78ef191349be06ffff93437c2c06654a4882f61",
+		"fields": {
+			"num_un": 184,
+			"geolocation": [
+				-21.236736,
+				-159.777671
+			],
+			"dialing_code": "682",
+			"a3_un": "COK",
+			"country": "Cook Islands",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "ck.png",
+				"width": 16,
+				"id": "95679da0ffddaa5f2bdbe782c4996ecf",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "CK"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-159.777671,
+				-21.236736
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "0617eedadce765e823b5a6813466f5ea15f56934",
+		"fields": {
+			"num_un": 784,
+			"geolocation": [
+				23.424076,
+				53.847818
+			],
+			"dialing_code": "971",
+			"a3_un": "ARE",
+			"country": "United Arab Emirates",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "ae.png",
+				"width": 16,
+				"id": "cf245010d2c19d65e261f054534b1d6e",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "AE"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				53.847818,
+				23.424076
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "0ef4ef83cb2952dfba8cbfda70038790f3ac7b5e",
+		"fields": {
+			"num_un": 492,
+			"geolocation": [
+				43.750298,
+				7.412841
+			],
+			"dialing_code": "377",
+			"a3_un": "MCO",
+			"country": "Monaco",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "mc.png",
+				"width": 16,
+				"id": "1c606030d46c0edc79027b39d8e673a5",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "MC"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				7.412841,
+				43.750298
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "977e82574932bef6d464e1ca3e4b93c1685cc615",
+		"fields": {
+			"num_un": 780,
+			"geolocation": [
+				10.691803,
+				-61.222503
+			],
+			"dialing_code": "1-868",
+			"a3_un": "TTO",
+			"country": "Trinidad and Tobago",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "tt.png",
+				"width": 16,
+				"id": "9b101e5a3b8b85734bb595d1ffe5abf5",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "TT"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-61.222503,
+				10.691803
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "cbdcbc1b5726dfa0f333c40a6867ca3106d840e9",
+		"fields": {
+			"num_un": 348,
+			"geolocation": [
+				47.162494,
+				19.503304
+			],
+			"dialing_code": "36",
+			"a3_un": "HUN",
+			"country": "Hungary",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "hu.png",
+				"width": 16,
+				"id": "5b42f8a0969143ee26c9ecbfdf4bc666",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "HU"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				19.503304,
+				47.162494
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "1ab6310eeb341a71ef65ca4ed86e8df1e9ed52d7",
+		"fields": {
+			"num_un": 144,
+			"geolocation": [
+				7.873054,
+				80.771797
+			],
+			"dialing_code": "94",
+			"a3_un": "LKA",
+			"country": "Sri Lanka",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "lk.png",
+				"width": 16,
+				"id": "54b5e6e06dfcbb60de685b37473ec997",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "LK"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				80.771797,
+				7.873054
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "57312bf56f615255f0d9f33e77bd840fc81571c8",
+		"fields": {
+			"num_un": 600,
+			"geolocation": [
+				-23.442503,
+				-58.443832
+			],
+			"dialing_code": "595",
+			"a3_un": "PRY",
+			"country": "Paraguay",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "py.png",
+				"width": 16,
+				"id": "652a7d9e6fc79da1330bd14a01d64f50",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "PY"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-58.443832,
+				-23.442503
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "8d86d8ba9418149748465e6b4c5a461f836e2606",
+		"fields": {
+			"num_un": 296,
+			"geolocation": [
+				-3.370416999999999,
+				-168.734039
+			],
+			"dialing_code": "686",
+			"a3_un": "KIR",
+			"country": "Kiribati",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "ki.png",
+				"width": 16,
+				"id": "1a70667ee6d22106f435b7d85e4c45b5",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "KI"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-168.734039,
+				-3.370416999999999
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "9d0776c3e4ea940014f94fb07b99e7032ceecebd",
+		"fields": {
+			"num_un": 158,
+			"geolocation": [
+				23.69781,
+				120.960515
+			],
+			"dialing_code": "886",
+			"a3_un": "TWN",
+			"country": "Taiwan, Province of China",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "tw.png",
+				"width": 16,
+				"id": "d8520029a785cb5245eddcea609dc9eb",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "TW"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				120.960515,
+				23.69781
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "55cde4a770407d12906658665d8783f0b89af26c",
+		"fields": {
+			"num_un": 192,
+			"geolocation": [
+				21.521757,
+				-77.781167
+			],
+			"dialing_code": "53",
+			"a3_un": "CUB",
+			"country": "Cuba",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "cu.png",
+				"width": 16,
+				"id": "196d0fc4f644bb477df82cd76f2b184b",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "CU"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-77.781167,
+				21.521757
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "22c1c74e7f57e8841f3c54fe8da5cfe6d1e03321",
+		"fields": {
+			"num_un": 434,
+			"geolocation": [
+				26.8234472,
+				18.1236723
+			],
+			"dialing_code": "218",
+			"a3_un": "LBY",
+			"country": "Libya",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "ly.png",
+				"width": 16,
+				"id": "1c432927fc389954bcc1df06effff82e",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "LY"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				18.1236723,
+				26.8234472
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "d116145909bf418de8ea76ceef5c58eb0145fcf3",
+		"fields": {
+			"num_un": 533,
+			"geolocation": [
+				12.52111,
+				-69.968338
+			],
+			"dialing_code": "297",
+			"a3_un": "ABW",
+			"country": "Aruba",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "aw.png",
+				"width": 16,
+				"id": "c78d0d3f56e4bbe396c991eac3c4e0e0",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "AW"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-69.968338,
+				12.52111
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "a0f51eb8fc06f9d945b2a91941bacd1db245749d",
+		"fields": {
+			"num_un": 710,
+			"geolocation": [
+				-30.559482,
+				22.937506
+			],
+			"dialing_code": "27",
+			"a3_un": "ZAF",
+			"country": "South Africa",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "za.png",
+				"width": 16,
+				"id": "c1f220c0952e55822ef461cd0906babd",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "ZA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				22.937506,
+				-30.559482
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "4f3a75b4258af58008404005ca8a3bce37c3e283",
+		"fields": {
+			"num_un": 340,
+			"geolocation": [
+				15.199999,
+				-86.241905
+			],
+			"dialing_code": "504",
+			"a3_un": "HND",
+			"country": "Honduras",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "hn.png",
+				"width": 16,
+				"id": "99c769588bcbf83dc20ce75d15f9eb27",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "HN"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-86.241905,
+				15.199999
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "85552832aaaa283acc16a3fd37f1506a6cf470ce",
+		"fields": {
+			"num_un": 166,
+			"geolocation": [
+				-12.1691894,
+				96.8301442
+			],
+			"dialing_code": "61",
+			"a3_un": "CCK",
+			"country": "Cocos (Keeling) Islands",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "cc.png",
+				"width": 16,
+				"id": "3b8dd387092576c8f3db4a7c70319ed5",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "CC"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				96.8301442,
+				-12.1691894
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "77657aba257222674c5e10f1e7f6ca8f8550b8ba",
+		"fields": {
+			"num_un": 239,
+			"geolocation": [
+				-54.429579,
+				-36.587909
+			],
+			"dialing_code": "500",
+			"a3_un": "SGS",
+			"country": "South Georgia and the South Sandwich Islands",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "gs.png",
+				"width": 16,
+				"id": "870ae5edbcb2fe1934e56636ebaa6139",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "GS"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-36.587909,
+				-54.429579
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "0d7df34ac75270470dee62c9942bcccf29536d3e",
+		"fields": {
+			"num_un": 140,
+			"geolocation": [
+				6.611111,
+				20.939444
+			],
+			"dialing_code": "236",
+			"a3_un": "CAF",
+			"country": "Central African Republic",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "cf.png",
+				"width": 16,
+				"id": "c40ebcafd7f28dbe9a33c926ca81edf7",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "CF"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				20.939444,
+				6.611111
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "4f1111843d4d2ed47e1a716f2855751cc1d72854",
+		"fields": {
+			"num_un": 662,
+			"geolocation": [
+				13.909444,
+				-60.978893
+			],
+			"dialing_code": "1-758",
+			"a3_un": "LCA",
+			"country": "Saint Lucia",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "lc.png",
+				"width": 16,
+				"id": "d15a33a67975e56dccdfc971f4a6b7fc",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "LC"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-60.978893,
+				13.909444
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "d1beb7008ec37a51bcf57d97de017a06c3e20237",
+		"fields": {
+			"num_un": 634,
+			"geolocation": [
+				25.354826,
+				51.183884
+			],
+			"dialing_code": "974",
+			"a3_un": "QAT",
+			"country": "Qatar",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "qa.png",
+				"width": 16,
+				"id": "a3eb62c32b80177d75284a87bd72f0a2",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "QA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				51.183884,
+				25.354826
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "82f19259f2723d68cc2058a641a2e63db439c4cb",
+		"fields": {
+			"num_un": 570,
+			"geolocation": [
+				-19.054445,
+				-169.867233
+			],
+			"dialing_code": "683",
+			"a3_un": "NIU",
+			"country": "Niue",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "nu.png",
+				"width": 16,
+				"id": "b91dfbbc7d62ccdc7f07d4175a5186ba",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "NU"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-169.867233,
+				-19.054445
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "2e7d6123c88357e585eed3ea49480d7a7081da50",
+		"fields": {
+			"num_un": 678,
+			"geolocation": [
+				0.18636000000000003,
+				6.613081
+			],
+			"dialing_code": "239",
+			"a3_un": "STP",
+			"country": "Sao Tome and Principe",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "st.png",
+				"width": 16,
+				"id": "97a82cb55b83fc5ac059112fd3fa0d9f",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "ST"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				6.613081,
+				0.18636000000000003
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "44c88a8f6d7dcdd94769b68075f9e48637f599ef",
+		"fields": {
+			"num_un": 112,
+			"geolocation": [
+				53.709807,
+				27.953389
+			],
+			"dialing_code": "375",
+			"a3_un": "BLR",
+			"country": "Belarus",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "by.png",
+				"width": 16,
+				"id": "7e2d5562a9560341fb972cdb419d8085",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "BY"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				27.953389,
+				53.709807
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "f63e17c07aece9e59618c26d624d56ca660622d9",
+		"fields": {
+			"num_un": 40,
+			"geolocation": [
+				47.516231,
+				14.550072
+			],
+			"dialing_code": "43",
+			"a3_un": "AUT",
+			"country": "Austria",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "at.png",
+				"width": 16,
+				"id": "f26d7b48c13e8f1f756e59c5fd7983a9",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "AT"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				14.550072,
+				47.516231
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "824087d8e97d7933da8932e7dbbf0f2eaaa4a001",
+		"fields": {
+			"num_un": 807,
+			"geolocation": [
+				41.608635,
+				21.745275
+			],
+			"dialing_code": "389",
+			"a3_un": "MKD",
+			"country": "Macedonia, the Former Yugoslav Republic of",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "mk.png",
+				"width": 16,
+				"id": "c4280807a55d3aadd41ee84cae55cba8",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "MK"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				21.745275,
+				41.608635
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "3a3ed80666855594b799a0f13c5cf9e7f232e18d",
+		"fields": {
+			"num_un": 729,
+			"geolocation": [
+				12.862807,
+				30.217636
+			],
+			"dialing_code": "249",
+			"a3_un": "SDN",
+			"country": "Sudan",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "sd.png",
+				"width": 16,
+				"id": "b18e0a766470d4db7ca6f25f1d6f0afb",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "SD"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				30.217636,
+				12.862807
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "fe6a44867764e80da36c9175cd165037815f8380",
+		"fields": {
+			"num_un": 52,
+			"geolocation": [
+				13.193887,
+				-59.543198
+			],
+			"dialing_code": "1-246",
+			"a3_un": "BRB",
+			"country": "Barbados",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "bb.png",
+				"width": 16,
+				"id": "52a380e1acbdf88363d26826f37fc5ee",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "BB"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-59.543198,
+				13.193887
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "97796e8d0c61d97e9ef5191b181fd2a01b7df531",
+		"fields": {
+			"num_un": 234,
+			"geolocation": [
+				61.892635,
+				-6.911806
+			],
+			"dialing_code": "298",
+			"a3_un": "FRO",
+			"country": "Faroe Islands",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "fo.png",
+				"width": 16,
+				"id": "24de3702677da3a19180465a219fe6a6",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "FO"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-6.911806,
+				61.892635
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "83bf8fb37146a057718853e4f2cd649f1b5fe331",
+		"fields": {
+			"num_un": 833,
+			"geolocation": [
+				54.236107,
+				-4.548056
+			],
+			"dialing_code": "44",
+			"a3_un": "IMN",
+			"country": "Isle of Man",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "im.png",
+				"width": 16,
+				"id": "9d1b76103fa4f811b9e2ff6767b8aefb",
+				"height": 9,
+				"thumbnail": true
+			},
+			"a2_iso": "IM"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-4.548056,
+				54.236107
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "c042503c7e53a1df4f10a548b00b16f301132b10",
+		"fields": {
+			"num_un": 756,
+			"geolocation": [
+				46.818188,
+				8.227512
+			],
+			"dialing_code": "41",
+			"a3_un": "CHE",
+			"country": "Switzerland",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "ch.png",
+				"width": 11,
+				"id": "730c0424a204beb6ed4974f5a5237d34",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "CH"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				8.227512,
+				46.818188
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "60cde73ef66d53ea3a786c5376726023252b2745",
+		"fields": {
+			"num_un": 670,
+			"geolocation": [
+				12.984304999999999,
+				-61.287228
+			],
+			"dialing_code": "1-784",
+			"a3_un": "VCT",
+			"country": "Saint Vincent and the Grenadines",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "vc.png",
+				"width": 16,
+				"id": "455dc158b2c40565797f1bcf6b7679a1",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "VC"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-61.287228,
+				12.984304999999999
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "73da3894b6b5184f4025d5e7ff254148132a9957",
+		"fields": {
+			"num_un": 12,
+			"geolocation": [
+				28.033886,
+				1.659625999999999
+			],
+			"dialing_code": "213",
+			"a3_un": "DZA",
+			"country": "Algeria",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "dz.png",
+				"width": 16,
+				"id": "4cd103ba1dcf08923f17fdfda6352297",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "DZ"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				1.659625999999999,
+				28.033886
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "a3291f5531be76727ea2d48021d424a9831b7dca",
+		"fields": {
+			"num_un": 398,
+			"geolocation": [
+				48.019573,
+				66.923684
+			],
+			"dialing_code": "7",
+			"a3_un": "KAZ",
+			"country": "Kazakhstan",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "kz.png",
+				"width": 16,
+				"id": "12ef46b796bcff99544d9e2e0aa819b8",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "KZ"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				66.923684,
+				48.019573
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "421a33a8d6e6184a27c07b205943da731359e87c",
+		"fields": {
+			"num_un": 70,
+			"geolocation": [
+				43.915886,
+				17.679076
+			],
+			"dialing_code": "387",
+			"a3_un": "BIH",
+			"country": "Bosnia and Herzegovina",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "ba.png",
+				"width": 16,
+				"id": "56901c6b02fd582d1d28da70a91a96b6",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "BA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				17.679076,
+				43.915886
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "94073ee0cc23e0fc4b7c31a2b9790ababb7309e8",
+		"fields": {
+			"num_un": 516,
+			"geolocation": [
+				-22.95764,
+				18.49041
+			],
+			"dialing_code": "264",
+			"a3_un": "NAM",
+			"country": "Namibia",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "na.png",
+				"width": 16,
+				"id": "9da322d25999caa7b13f33d9e70d9fbf",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "NA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				18.49041,
+				-22.95764
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "38f8ac06d184fbed334ef429962fa96156449ee3",
+		"fields": {
+			"num_un": 624,
+			"geolocation": [
+				11.803749,
+				-15.180413
+			],
+			"dialing_code": "245",
+			"a3_un": "GNB",
+			"country": "Guinea-Bissau",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "gw.png",
+				"width": 16,
+				"id": "29cabf4a1d075bab0617cf3ec269f2e3",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "GW"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-15.180413,
+				11.803749
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "1c17324042e8a95c8930d5b9d380ad09de2e44c3",
+		"fields": {
+			"num_un": 104,
+			"geolocation": [
+				21.913965,
+				95.956223
+			],
+			"dialing_code": "95",
+			"a3_un": "MMR",
+			"country": "Myanmar",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "mm.png",
+				"width": 16,
+				"id": "52fbf26fa7fef994b7434fbd02748598",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "MM"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				95.956223,
+				21.913965
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "19c6f3cec4a54d499c4aae71b99eac7d8aa1ca25",
+		"fields": {
+			"num_un": 578,
+			"geolocation": [
+				60.472024,
+				8.468946
+			],
+			"dialing_code": "47",
+			"a3_un": "NOR",
+			"country": "Norway",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "no.png",
+				"width": 16,
+				"id": "25bc0479485504479ffeb28e9a337cdc",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "NO"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				8.468946,
+				60.472024
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "16c4ea83e4dc524b7c3c657a0ae90c0cb2808dc4",
+		"fields": {
+			"num_un": 508,
+			"geolocation": [
+				-18.665695,
+				35.529562
+			],
+			"dialing_code": "258",
+			"a3_un": "MOZ",
+			"country": "Mozambique",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "mz.png",
+				"width": 16,
+				"id": "1ea3c572cebb0093c69b228301cc058c",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "MZ"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				35.529562,
+				-18.665695
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "23ae2f7e49436f4978972bcb5295a5332ef8df2d",
+		"fields": {
+			"num_un": 400,
+			"geolocation": [
+				30.585164,
+				36.238414
+			],
+			"dialing_code": "962",
+			"a3_un": "JOR",
+			"country": "Jordan",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "jo.png",
+				"width": 16,
+				"id": "7dd0e2d57d3a50c1a1bfc50995212a5f",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "JO"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				36.238414,
+				30.585164
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "af96fab238ce5c71e0d25dc809017095609d5eb3",
+		"fields": {
+			"num_un": 430,
+			"geolocation": [
+				6.428055,
+				-9.429499
+			],
+			"dialing_code": "231",
+			"a3_un": "LBR",
+			"country": "Liberia",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "lr.png",
+				"width": 16,
+				"id": "9d81b25bd3532cf125cf2c7814650ad3",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "LR"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-9.429499,
+				6.428055
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "4929f5638df239926b3915b50ce968444d339087",
+		"fields": {
+			"num_un": 690,
+			"geolocation": [
+				-4.679574,
+				55.491977
+			],
+			"dialing_code": "248",
+			"a3_un": "SYC",
+			"country": "Seychelles",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "sc.png",
+				"width": 16,
+				"id": "c738652a8a51f4acfb94291d68cf0edb",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "SC"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				55.491977,
+				-4.679574
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "e7c11a86511df2e3c68ecedfb44a6ea569e6dbc7",
+		"fields": {
+			"num_un": 496,
+			"geolocation": [
+				46.862496,
+				103.846656
+			],
+			"dialing_code": "976",
+			"a3_un": "MNG",
+			"country": "Mongolia",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "mn.png",
+				"width": 16,
+				"id": "7b60da4c7cc47a723ee97e55ba2b7c5d",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "MN"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				103.846656,
+				46.862496
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "d63eef81e5f5b5e3bd44c1c671aac7f76e269e87",
+		"fields": {
+			"num_un": 304,
+			"geolocation": [
+				71.706936,
+				-42.604303
+			],
+			"dialing_code": "299",
+			"a3_un": "GRL",
+			"country": "Greenland",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "gl.png",
+				"width": 16,
+				"id": "65bd1de858df6ad29ed0d1e2faa1ee0e",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "GL"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-42.604303,
+				71.706936
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "2df6891039881b8357359a5c8717bd93101728a6",
+		"fields": {
+			"num_un": 792,
+			"geolocation": [
+				38.963745,
+				35.243322
+			],
+			"dialing_code": "90",
+			"a3_un": "TUR",
+			"country": "Turkey",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "tr.png",
+				"width": 16,
+				"id": "33ada9a82a1a73773b66ec16d9378972",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "TR"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				35.243322,
+				38.963745
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "da6d6c852824603e28c887da9143765fb0e90f07",
+		"fields": {
+			"num_un": 260,
+			"geolocation": [
+				-74.9999995,
+				139.0
+			],
+			"dialing_code": "262",
+			"a3_un": "ATF",
+			"country": "French Southern Territories",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "tf.png",
+				"width": 16,
+				"id": "86e247c6616ccc6f11a4d5680cbf73b9",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "TF"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				139.0,
+				-74.9999995
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "4dbf11f95a4c9ffb9aeacd45c55dc583135f13cc",
+		"fields": {
+			"num_un": 646,
+			"geolocation": [
+				-1.940278,
+				29.873888
+			],
+			"dialing_code": "250",
+			"a3_un": "RWA",
+			"country": "Rwanda",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "rw.png",
+				"width": 16,
+				"id": "9e1d2dc9e60ec7ea714064de5044c851",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "RW"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				29.873888,
+				-1.940278
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "442a5349f9245f7d82ebc35b482f3a3e3c103dea",
+		"fields": {
+			"num_un": 818,
+			"geolocation": [
+				26.820553,
+				30.802498
+			],
+			"dialing_code": "20",
+			"a3_un": "EGY",
+			"country": "Egypt",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "eg.png",
+				"width": 16,
+				"id": "088c793faa24baf3270bab67354dd0ce",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "EG"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				30.802498,
+				26.820553
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "70dbed466ac830e56e9781cc0367ce03869a1c10",
+		"fields": {
+			"num_un": 643,
+			"geolocation": [
+				61.52401,
+				105.318756
+			],
+			"dialing_code": "7",
+			"a3_un": "RUS",
+			"country": "Russian Federation",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "ru.png",
+				"width": 16,
+				"id": "267f16995a910cc0a24115a8108a5d20",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "RU"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				105.318756,
+				61.52401
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "e639263a1d75d6a3d466962d61fc47b1e3d4eae9",
+		"fields": {
+			"num_un": 834,
+			"geolocation": [
+				-6.369028,
+				34.888822
+			],
+			"dialing_code": "255",
+			"a3_un": "TZA",
+			"country": "United Republic of Tanzania",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "tz.png",
+				"width": 16,
+				"id": "9ad688c4ec2d303d9bd085b3cd476ced",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "TZ"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				34.888822,
+				-6.369028
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "2314389d520b7631c718f56ebf046a4f7aac3ae7",
+		"fields": {
+			"num_un": 702,
+			"geolocation": [
+				1.352083,
+				103.819836
+			],
+			"dialing_code": "65",
+			"a3_un": "SGP",
+			"country": "Singapore",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "sg.png",
+				"width": 16,
+				"id": "2fb2b69f0576a83f4d4b13dadfa7298f",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "SG"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				103.819836,
+				1.352083
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "39a465b6ba9f7b8ed3eba60ff675deba3d832a03",
+		"fields": {
+			"num_un": 392,
+			"geolocation": [
+				36.204824,
+				138.252924
+			],
+			"dialing_code": "81",
+			"a3_un": "JPN",
+			"country": "Japan",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "jp.png",
+				"width": 16,
+				"id": "1c26b7819889e1ae605d75112ef6a62d",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "JP"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				138.252924,
+				36.204824
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "e6f5806e110c7584fce59a3988c0038528856cc1",
+		"fields": {
+			"num_un": 660,
+			"geolocation": [
+				18.220554,
+				-63.068615
+			],
+			"dialing_code": "1-264",
+			"a3_un": "AIA",
+			"country": "Anguilla",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "ai.png",
+				"width": 16,
+				"id": "9387202dd2e7526535b816ad8c67c873",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "AI"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-63.068615,
+				18.220554
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "3a636a5adb9169d4204e8f06ae1cb08459d173c1",
+		"fields": {
+			"num_un": 440,
+			"geolocation": [
+				55.169438,
+				23.881275
+			],
+			"dialing_code": "370",
+			"a3_un": "LTU",
+			"country": "Lithuania",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "lt.png",
+				"width": 16,
+				"id": "82aef848f975ddcb01f033932049bedd",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "LT"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				23.881275,
+				55.169438
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "1bd8e35f739db4b20472c1a28de6f7d5f8c0e01f",
+		"fields": {
+			"num_un": 292,
+			"geolocation": [
+				36.137741,
+				-5.345374
+			],
+			"dialing_code": "350",
+			"a3_un": "GIB",
+			"country": "Gibraltar",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "gi.png",
+				"width": 16,
+				"id": "8c20ff8bba52ec5abf66b4409a345173",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "GI"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-5.345374,
+				36.137741
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "f52dc764461488e1518584e0e3011e4d24125e92",
+		"fields": {
+			"num_un": 170,
+			"geolocation": [
+				4.570868,
+				-74.297333
+			],
+			"dialing_code": "57",
+			"a3_un": "COL",
+			"country": "Colombia",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "co.png",
+				"width": 16,
+				"id": "bba796134162b907144c5e484163a7b7",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "CO"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-74.297333,
+				4.570868
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "d0facbfe6730aed271711334f9519a76d820b5d2",
+		"fields": {
+			"num_un": 798,
+			"geolocation": [
+				-7.109535,
+				177.64933
+			],
+			"dialing_code": "688",
+			"a3_un": "TUV",
+			"country": "Tuvalu",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "tv.png",
+				"width": 16,
+				"id": "4bb16783d9d8b0a1925f82eb561f0962",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "TV"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				177.64933,
+				-7.109535
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "765d61bdf8140d6ebe96438c21d2b5703fd8b63e",
+		"fields": {
+			"num_un": 840,
+			"geolocation": [
+				37.09024,
+				-95.712891
+			],
+			"dialing_code": "1",
+			"a3_un": "USA",
+			"country": "United States",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "us.png",
+				"width": 16,
+				"id": "c2217719cfd4f9a61a88da2f626125b8",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "US"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-95.712891,
+				37.09024
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "76dff46875e0df0033d20daa044d95fe6f7ff90d",
+		"fields": {
+			"num_un": 659,
+			"geolocation": [
+				17.357822,
+				-62.782998
+			],
+			"dialing_code": "1-869",
+			"a3_un": "KNA",
+			"country": "Saint Kitts and Nevis",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "kn.png",
+				"width": 16,
+				"id": "cd48a831b38325810caf992fd52aac1c",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "KN"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-62.782998,
+				17.357822
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "d3ec475bdec9fd3b776ac3c0c725c08f9b61a063",
+		"fields": {
+			"num_un": 540,
+			"geolocation": [
+				-20.904305,
+				165.618042
+			],
+			"dialing_code": "687",
+			"a3_un": "NCL",
+			"country": "New Caledonia",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "nc.png",
+				"width": 16,
+				"id": "1ff99f80eeb442359f534fb86ee659eb",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "NC"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				165.618042,
+				-20.904305
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "fcad92c9dd0aad712d2e427daf89c75882f1b66b",
+		"fields": {
+			"num_un": 175,
+			"geolocation": [
+				-12.8275,
+				45.166244
+			],
+			"dialing_code": "262",
+			"a3_un": "MYT",
+			"country": "Mayotte",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "yt.png",
+				"width": 16,
+				"id": "f84707a89267c87d464e495de8101de6",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "YT"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.166244,
+				-12.8275
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "5f7a9ff6c029ab0726e8f0a8b7038172b1db3e0c",
+		"fields": {
+			"num_un": 344,
+			"geolocation": [
+				22.396428,
+				114.109497
+			],
+			"dialing_code": "852",
+			"a3_un": "HKG",
+			"country": "Hong Kong",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "hk.png",
+				"width": 16,
+				"id": "208c0ca08e2d265bcd0a22ade4a53c7c",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "HK"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				114.109497,
+				22.396428
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "e97b58e633793ee5e70b4dbff60a99f5a79ec402",
+		"fields": {
+			"num_un": 136,
+			"geolocation": [
+				19.513469,
+				-80.566956
+			],
+			"dialing_code": "1-345",
+			"a3_un": "CYM",
+			"country": "Cayman Islands",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "ky.png",
+				"width": 16,
+				"id": "19882b2439e2a12aa7cb53e4f93b98fd",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "KY"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-80.566956,
+				19.513469
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "f795a6752165e55ce28fc3e2bcfa45a2384f5619",
+		"fields": {
+			"num_un": 524,
+			"geolocation": [
+				28.394857,
+				84.124008
+			],
+			"dialing_code": "977",
+			"a3_un": "NPL",
+			"country": "Nepal",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "np.png",
+				"width": 9,
+				"id": "a0ad28f7570e8fefa8767f15ff50fae6",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "NP"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				84.124008,
+				28.394857
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "2fb82a5ff19f1d986ed9bd0a1e3af122a5b9e76a",
+		"fields": {
+			"num_un": 768,
+			"geolocation": [
+				8.619543,
+				0.824782
+			],
+			"dialing_code": "228",
+			"a3_un": "TGO",
+			"country": "Togo",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "tg.png",
+				"width": 16,
+				"id": "637da21bd434fac0fc7f69df195c0936",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "TG"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				0.824782,
+				8.619543
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "0502a7bb5197e93d679911205b372c5d95c23f0f",
+		"fields": {
+			"num_un": 620,
+			"geolocation": [
+				39.399872,
+				-8.224454
+			],
+			"dialing_code": "351",
+			"a3_un": "PRT",
+			"country": "Portugal",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "pt.png",
+				"width": 16,
+				"id": "c3a88796839be475c1bec6a3cf251137",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "PT"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-8.224454,
+				39.399872
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "e7e3ded979889ccc6e79955ab73ef8bc9f6d1452",
+		"fields": {
+			"num_un": 598,
+			"geolocation": [
+				-6.314993,
+				143.95555
+			],
+			"dialing_code": "675",
+			"a3_un": "PNG",
+			"country": "Papua New Guinea",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "pg.png",
+				"width": 16,
+				"id": "ee7cd4fb1271d86f338613ed8e863fce",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "PG"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				143.95555,
+				-6.314993
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "f6bae87841f1e3b1b7334ea59610a89f792812f5",
+		"fields": {
+			"num_un": 562,
+			"geolocation": [
+				17.607789,
+				8.081666
+			],
+			"dialing_code": "227",
+			"a3_un": "NER",
+			"country": "Niger",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "ne.png",
+				"width": 16,
+				"id": "c5e16a2237f05211dbcdfee635a2bea9",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "NE"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				8.081666,
+				17.607789
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "9f7a5068440feb12df672002c945d88de1bc684e",
+		"fields": {
+			"num_un": 688,
+			"geolocation": [
+				44.016521,
+				21.005859
+			],
+			"dialing_code": "381",
+			"a3_un": "SRB",
+			"country": "Serbia",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "rs.png",
+				"width": 16,
+				"id": "e31e7ea842a8716c1bef25cad9c11630",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "RS"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				21.005859,
+				44.016521
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "4940970da6bb16880f3f51fa01f2d1ef1443660e",
+		"fields": {
+			"num_un": 72,
+			"geolocation": [
+				-22.328474,
+				24.684866
+			],
+			"dialing_code": "267",
+			"a3_un": "BWA",
+			"country": "Botswana",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "bw.png",
+				"width": 16,
+				"id": "fd7de810750eea373224e313f1232a44",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "BW"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				24.684866,
+				-22.328474
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "91c383da5d197c71d4b095cd3014d12d6839632e",
+		"fields": {
+			"num_un": 832,
+			"geolocation": [
+				49.214439,
+				-2.13125
+			],
+			"dialing_code": "44",
+			"a3_un": "JEY",
+			"country": "Jersey",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "je.png",
+				"width": 16,
+				"id": "6a95e91c818486277d5459b06478f8e3",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "JE"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-2.13125,
+				49.214439
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "38efdfe532e6f13c01639f87fd4ddc3fe72f483e",
+		"fields": {
+			"num_un": 498,
+			"geolocation": [
+				47.411631,
+				28.369885
+			],
+			"dialing_code": "373",
+			"a3_un": "MDA",
+			"country": "Moldova, Republic of",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "md.png",
+				"width": 16,
+				"id": "7dc78a3470f309d3aa414217ed42cd00",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "MD"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				28.369885,
+				47.411631
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "e01a91aba71fbed4c3b61e2468e25aa0c90abf35",
+		"fields": {
+			"num_un": 250,
+			"geolocation": [
+				46.227638,
+				2.213749
+			],
+			"dialing_code": "33",
+			"a3_un": "FRA",
+			"country": "France",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "fr.png",
+				"width": 16,
+				"id": "c800e88619854ee2f393e15422fefdf8",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "FR"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.213749,
+				46.227638
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "70fe35b4474a0821c2e11f79a318912de3fd93b3",
+		"fields": {
+			"num_un": 706,
+			"geolocation": [
+				5.152149,
+				46.199616
+			],
+			"dialing_code": "252",
+			"a3_un": "SOM",
+			"country": "Somalia",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "so.png",
+				"width": 16,
+				"id": "0a7d13848aa7da33ff2b71cfad0326f9",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "SO"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				46.199616,
+				5.152149
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "0bbdb7d5cba849a18008525e4ca0150640c2af16",
+		"fields": {
+			"num_un": 762,
+			"geolocation": [
+				38.861034,
+				71.276093
+			],
+			"dialing_code": "992",
+			"a3_un": "TJK",
+			"country": "Tajikistan",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "tj.png",
+				"width": 16,
+				"id": "cbf22e0ec41bb807f31b0583657bfdf3",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "TJ"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				71.276093,
+				38.861034
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "016867f4a414e9448177396ef0e45bcdc1f113a6",
+		"fields": {
+			"num_un": 312,
+			"geolocation": [
+				16.995971,
+				-62.067641
+			],
+			"dialing_code": "590",
+			"a3_un": "GLP",
+			"country": "Guadeloupe",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "gp.png",
+				"width": 16,
+				"id": "db438a552fda31e09da4f43d0b0088b6",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "GP"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-62.067641,
+				16.995971
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "e58524f054fe098225dff9065a5faf09f01fcb3f",
+		"fields": {
+			"num_un": 356,
+			"geolocation": [
+				20.593684,
+				78.96288
+			],
+			"dialing_code": "91",
+			"a3_un": "IND",
+			"country": "India",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "in.png",
+				"width": 16,
+				"id": "ca118f5c51b716f62ebd9e53f24b7d7f",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "IN"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				78.96288,
+				20.593684
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "6dde0f8a9cb05552e57ebfc06fcf8d96cafb9eb4",
+		"fields": {
+			"num_un": 626,
+			"geolocation": [
+				-8.874217,
+				125.727539
+			],
+			"dialing_code": "670",
+			"a3_un": "TLS",
+			"country": "Timor-Leste",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "tl.png",
+				"width": 16,
+				"id": "889b5b580060a78f44f1be2fb5708888",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "TL"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				125.727539,
+				-8.874217
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "580821f4e2697806c5660ae0f589779bc377b81e",
+		"fields": {
+			"num_un": 124,
+			"geolocation": [
+				56.130366,
+				-106.346771
+			],
+			"dialing_code": "1",
+			"a3_un": "CAN",
+			"country": "Canada",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "ca.png",
+				"width": 16,
+				"id": "f739aa1c903afddaa58b0e56dfe37694",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "CA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-106.346771,
+				56.130366
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "c47c8501fb597ff1620b3f5cc235b53b7ea62937",
+		"fields": {
+			"num_un": 24,
+			"geolocation": [
+				-11.202692,
+				17.873887
+			],
+			"dialing_code": "244",
+			"a3_un": "AGO",
+			"country": "Angola",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "ao.png",
+				"width": 16,
+				"id": "f5c56692f2e6f2ab4bc34650078beb60",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "AO"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				17.873887,
+				-11.202692
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "faa3336562d6742d7cbec9b29ae6622b3a98678a",
+		"fields": {
+			"num_un": 242,
+			"geolocation": [
+				-16.578193,
+				179.414413
+			],
+			"dialing_code": "679",
+			"a3_un": "FJI",
+			"country": "Fiji",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "fj.png",
+				"width": 16,
+				"id": "72adf4fd1dd7353d29e5cb594965d683",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "FJ"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				179.414413,
+				-16.578193
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "a5018818b0cf0df785ad8e9195edea63ba8f2ea4",
+		"fields": {
+			"num_un": 499,
+			"geolocation": [
+				42.708678,
+				19.374390000000002
+			],
+			"dialing_code": "382",
+			"a3_un": "MNE",
+			"country": "Montenegro",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "me.png",
+				"width": 16,
+				"id": "8701d1fb576a8514cccbce65d6b70845",
+				"height": 12,
+				"thumbnail": true
+			},
+			"a2_iso": "ME"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				19.374390000000002,
+				42.708678
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "83cf2222dcdbd1e77c33546cc3126427ae4c8cfd",
+		"fields": {
+			"num_un": 630,
+			"geolocation": [
+				18.220833,
+				-66.590149
+			],
+			"dialing_code": "1",
+			"a3_un": "PRI",
+			"country": "Puerto Rico",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "pr.png",
+				"width": 16,
+				"id": "1b169daee0ac5af7ec1ef79bcfd4bae8",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "PR"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-66.590149,
+				18.220833
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "f02b04be569fd2faf06527bee7c5f2ee92c9c076",
+		"fields": {
+			"num_un": 204,
+			"geolocation": [
+				9.307690000000001,
+				2.315834
+			],
+			"dialing_code": "229",
+			"a3_un": "BEN",
+			"country": "Benin",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "bj.png",
+				"width": 16,
+				"id": "149e57233c3b3b760e403067bf7df394",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "BJ"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				2.315834,
+				9.307690000000001
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "53b47d566f3051e35cc09eeb497eb7af04b9f55f",
+		"fields": {
+			"num_un": 438,
+			"geolocation": [
+				47.166,
+				9.555373
+			],
+			"dialing_code": "423",
+			"a3_un": "LIE",
+			"country": "Liechtenstein",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "li.png",
+				"width": 16,
+				"id": "0cfeaea16a3e4f5d3695ff44ab0e50b6",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "LI"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				9.555373,
+				47.166
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "4ec3046ae9b63f5cd5fcfc8bd189490f6505704a",
+		"fields": {
+			"num_un": 246,
+			"geolocation": [
+				61.92411,
+				25.748151
+			],
+			"dialing_code": "358",
+			"a3_un": "FIN",
+			"country": "Finland",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "fi.png",
+				"width": 16,
+				"id": "82893670aac8f0a4814b935a77e39c1d",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "FI"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				25.748151,
+				61.92411
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "78ddbbfa4d3f3fcf7c4138e33a010cd99928c3ed",
+		"fields": {
+			"num_un": 364,
+			"geolocation": [
+				32.427908,
+				53.688046
+			],
+			"dialing_code": "98",
+			"a3_un": "IRN",
+			"country": "Iran, Islamic Republic of",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "ir.png",
+				"width": 16,
+				"id": "1c5d9696b1bf76ad6de603c66de2c0fe",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "IR"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				53.688046,
+				32.427908
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "f37a218f782687adfd3632ca7b83a2d406b90c5b",
+		"fields": {
+			"num_un": 748,
+			"geolocation": [
+				-26.522503,
+				31.465866
+			],
+			"dialing_code": "268",
+			"a3_un": "SWZ",
+			"country": "Swaziland",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "sz.png",
+				"width": 16,
+				"id": "b8d020381cc8a2312f22ac1e050e6e11",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "SZ"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				31.465866,
+				-26.522503
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "ab362be87ad1294e0e0ea98ab556f8b54d98bd06",
+		"fields": {
+			"num_un": 156,
+			"geolocation": [
+				35.86166,
+				104.195397
+			],
+			"dialing_code": "86",
+			"a3_un": "CHN",
+			"country": "China",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "cn.png",
+				"width": 16,
+				"id": "62c1622b4888e5c30ffb29f451de7b78",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "CN"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				104.195397,
+				35.86166
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "a87ac11291de0fafa7f3f19d078ea61f2298f2d9",
+		"fields": {
+			"num_un": 275,
+			"geolocation": [
+				42.094445,
+				17.266614
+			],
+			"dialing_code": "970",
+			"a3_un": "PSE",
+			"country": "Palestine, State of",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "ps.png",
+				"width": 16,
+				"id": "bfa62d58daf01d5e0a10c4ea90aa1347",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "PS"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				17.266614,
+				42.094445
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "e344bca6887766e9435091ec8cc649578846a0b5",
+		"fields": {
+			"num_un": 804,
+			"geolocation": [
+				48.379433,
+				31.16558
+			],
+			"dialing_code": "380",
+			"a3_un": "UKR",
+			"country": "Ukraine",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "ua.png",
+				"width": 16,
+				"id": "cd09c592cc624b2b9a1960925b7db5b0",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "UA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				31.16558,
+				48.379433
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "46a437ca31e57a19ddc1fd3f983481c3af86667a",
+		"fields": {
+			"num_un": 417,
+			"geolocation": [
+				41.20438,
+				74.766098
+			],
+			"dialing_code": "996",
+			"a3_un": "KGZ",
+			"country": "Kyrgyzstan",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "kg.png",
+				"width": 16,
+				"id": "f5f38e87326fdd941dcbd11e6898bd14",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "KG"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				74.766098,
+				41.20438
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "7c735ac6047c055362a5a37be191f67754d9eeaf",
+		"fields": {
+			"num_un": 50,
+			"geolocation": [
+				23.684994,
+				90.356331
+			],
+			"dialing_code": "880",
+			"a3_un": "BGD",
+			"country": "Bangladesh",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "bd.png",
+				"width": 16,
+				"id": "40cddddda9ac0de1b757662235e4a502",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "BD"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				90.356331,
+				23.684994
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "94f2e1cf3a362a9c555e81b4601d09e7e964b910",
+		"fields": {
+			"num_un": 724,
+			"geolocation": [
+				40.463667,
+				-3.74922
+			],
+			"dialing_code": "34",
+			"a3_un": "ESP",
+			"country": "Spain",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "es.png",
+				"width": 16,
+				"id": "cb9c95c438003a03367ce12e4919eb41",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "ES"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-3.74922,
+				40.463667
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "64be10f00dd5f4017dbb00bb8d122cba575899ae",
+		"fields": {
+			"num_un": 558,
+			"geolocation": [
+				12.865416,
+				-85.207229
+			],
+			"dialing_code": "505",
+			"a3_un": "NIC",
+			"country": "Nicaragua",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "ni.png",
+				"width": 16,
+				"id": "58395ae4de9e68484d7bd43ee3d5eaf4",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "NI"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-85.207229,
+				12.865416
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "f7e4f12fa1df5baecd48ca03fab9c6c72287e95c",
+		"fields": {
+			"num_un": 408,
+			"geolocation": [
+				40.3123959,
+				127.399971
+			],
+			"dialing_code": "850",
+			"a3_un": "PRK",
+			"country": "Korea, Democratic People's Republic of",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "kp.png",
+				"width": 16,
+				"id": "4e8bdc7042d0bd6c6fc930a801c64e3e",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "KP"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				127.399971,
+				40.3123959
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "d96a13f446f6e50ecae6d4ad847e2dc1cff66211",
+		"fields": {
+			"num_un": 276,
+			"geolocation": [
+				51.165691,
+				10.451526
+			],
+			"dialing_code": "49",
+			"a3_un": "DEU",
+			"country": "Germany",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "de.png",
+				"width": 16,
+				"id": "ef91fbe2decaafb8254e04501732b21d",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "DE"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				10.451526,
+				51.165691
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "734b1dcb832c301d6d17fffe14211e30a61e0b7c",
+		"fields": {
+			"num_un": 500,
+			"geolocation": [
+				16.742498,
+				-62.187366
+			],
+			"dialing_code": "1-664",
+			"a3_un": "MSR",
+			"country": "Montserrat",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "ms.png",
+				"width": 16,
+				"id": "ed10040d0c91c779d1a6bd173bcaef94",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "MS"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-62.187366,
+				16.742498
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "53310161ffc39e5e71a4d88c6eec21c54e1550f7",
+		"fields": {
+			"num_un": 894,
+			"geolocation": [
+				-13.133897,
+				27.849332
+			],
+			"dialing_code": "260",
+			"a3_un": "ZMB",
+			"country": "Zambia",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "zm.png",
+				"width": 16,
+				"id": "eb7b4c34090f510da0ab0c14deba91d8",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "ZM"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				27.849332,
+				-13.133897
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "2b2f487f7e2e4747037b10fee257878eae4ae9e6",
+		"fields": {
+			"num_un": 418,
+			"geolocation": [
+				19.85627,
+				102.495496
+			],
+			"dialing_code": "856",
+			"a3_un": "LAO",
+			"country": "Lao People's Democratic Republic",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "la.png",
+				"width": 16,
+				"id": "14ccaad072b2d5248873c2c542fed810",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "LA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				102.495496,
+				19.85627
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "7ea79ac48c30bc958391052d49fbafae40fd44ef",
+		"fields": {
+			"num_un": 214,
+			"geolocation": [
+				18.735693,
+				-70.162651
+			],
+			"dialing_code": "1-809,1-829,1-849",
+			"a3_un": "DOM",
+			"country": "Dominican Republic",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "do.png",
+				"width": 16,
+				"id": "77b52cfad05ba42a0297eff304a15c15",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "DO"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-70.162651,
+				18.735693
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "1485a1d4591dab0135391408c12dacc2e7476f11",
+		"fields": {
+			"num_un": 44,
+			"geolocation": [
+				25.03428,
+				-77.39628
+			],
+			"dialing_code": "1-242",
+			"a3_un": "BHS",
+			"country": "Bahamas",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "bs.png",
+				"width": 16,
+				"id": "5ab57876664d050dd5f3f766e99e0185",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "BS"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-77.39628,
+				25.03428
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "39273474bb77f95793e79008eebb35b2b7ee7931",
+		"fields": {
+			"num_un": 512,
+			"geolocation": [
+				21.512583,
+				55.923255
+			],
+			"dialing_code": "968",
+			"a3_un": "OMN",
+			"country": "Oman",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "om.png",
+				"width": 16,
+				"id": "91c6840977d1c4dc6ef6b17ac6dbdcf4",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "OM"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				55.923255,
+				21.512583
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "579cee57b4b39ed92e3e240b156d2a977d9f7a0e",
+		"fields": {
+			"num_un": 188,
+			"geolocation": [
+				9.748917,
+				-83.753428
+			],
+			"dialing_code": "506",
+			"a3_un": "CRI",
+			"country": "Costa Rica",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "cr.png",
+				"width": 16,
+				"id": "c7eac377c5711c9f2769e002c1ba6764",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "CR"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-83.753428,
+				9.748917
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "bf91d540b8f06a021e9d288dcf3ccf319647eb9f",
+		"fields": {
+			"num_un": 796,
+			"geolocation": [
+				21.694025,
+				-71.797928
+			],
+			"dialing_code": "1-649",
+			"a3_un": "TCA",
+			"country": "Turks and Caicos Islands",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "tc.png",
+				"width": 16,
+				"id": "8fc0fac4a8b96464ff1b8b9a0d64c1c2",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "TC"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-71.797928,
+				21.694025
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "290b1ece3d6ef6b905d3a8bb725c9318a622fbfb",
+		"fields": {
+			"num_un": 574,
+			"geolocation": [
+				-29.040835,
+				167.954712
+			],
+			"dialing_code": "672",
+			"a3_un": "NFK",
+			"country": "Norfolk Island",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "nf.png",
+				"width": 16,
+				"id": "d80da79656406dc354be2e7006969c31",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "NF"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				167.954712,
+				-29.040835
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "3b6006b4b2d65a548946f3e011cee6db522e3416",
+		"fields": {
+			"num_un": 716,
+			"geolocation": [
+				-19.015438,
+				29.154857
+			],
+			"dialing_code": "263",
+			"a3_un": "ZWE",
+			"country": "Zimbabwe",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "zw.png",
+				"width": 16,
+				"id": "5320cb100d3138c8dd11853b7c16cf5c",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "ZW"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				29.154857,
+				-19.015438
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "7b8432e655bbd28f7aaabd2811f64030396fb08b",
+		"fields": {
+			"num_un": 64,
+			"geolocation": [
+				27.514162,
+				90.433601
+			],
+			"dialing_code": "975",
+			"a3_un": "BTN",
+			"country": "Bhutan",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "bt.png",
+				"width": 16,
+				"id": "898b8edcb6b47009f5e7f46c2f41e9cb",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "BT"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				90.433601,
+				27.514162
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "76b62ecebf05f39c136e115e9fd5fde6777c13bd",
+		"fields": {
+			"num_un": 336,
+			"geolocation": [
+				41.9034912,
+				12.4528349
+			],
+			"dialing_code": "379",
+			"a3_un": "VAT",
+			"country": "Holy See (Vatican City State)",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "va.png",
+				"width": 16,
+				"id": "95418f6759e70b5d24dc7d986dded6bd",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "VA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				12.4528349,
+				41.9034912
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "1c3488e6ff1a581e0c525fd0c7b69d3aca4e22d9",
+		"fields": {
+			"num_un": 258,
+			"geolocation": [
+				-17.679742,
+				-149.406843
+			],
+			"dialing_code": "689",
+			"a3_un": "PYF",
+			"country": "French Polynesia",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "pf.png",
+				"width": 16,
+				"id": "d56120260f72bdf38237b6c707ec60ec",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "PF"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-149.406843,
+				-17.679742
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "c4d9221145e182039d860dba69bf2c0191fb67f7",
+		"fields": {
+			"num_un": 90,
+			"geolocation": [
+				-9.64571,
+				160.156194
+			],
+			"dialing_code": "677",
+			"a3_un": "SLB",
+			"country": "Solomon Islands",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "sb.png",
+				"width": 16,
+				"id": "57506bee5eaa824fb6273b3fff67d553",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "SB"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				160.156194,
+				-9.64571
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "029e1c67eb7191b66c8fbdcb88315cb5a1432811",
+		"fields": {
+			"num_un": 248,
+			"geolocation": [
+				60.2166218,
+				19.9438638
+			],
+			"dialing_code": "358",
+			"a3_un": "ALA",
+			"country": "Aland Islands",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "ax.png",
+				"width": 16,
+				"id": "79cc9c20e1657519ec6f83fcb4398f07",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "AX"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				19.9438638,
+				60.2166218
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "182634e0057a58dd4c434d4f48f613a8399bed73",
+		"fields": {
+			"num_un": 212,
+			"geolocation": [
+				15.414999,
+				-61.370976
+			],
+			"dialing_code": "1-767",
+			"a3_un": "DMA",
+			"country": "Dominica",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "dm.png",
+				"width": 16,
+				"id": "1a91a734f41268214d52621050ad4e64",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "DM"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-61.370976,
+				15.414999
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "f478fc55c38a2ed502a98ddbf856ee80eca80527",
+		"fields": {
+			"num_un": 178,
+			"geolocation": [
+				-0.228021,
+				15.827659
+			],
+			"dialing_code": "242",
+			"a3_un": "COG",
+			"country": "Congo",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "cg.png",
+				"width": 16,
+				"id": "c2a87f6a349de35494f229b9fcfa7c57",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "CG"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				15.827659,
+				-0.228021
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "118d7d415ebb1ed5c1add83d542a62dafc3c9379",
+		"fields": {
+			"num_un": 442,
+			"geolocation": [
+				49.815273,
+				6.129583
+			],
+			"dialing_code": "352",
+			"a3_un": "LUX",
+			"country": "Luxembourg",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "lu.png",
+				"width": 16,
+				"id": "5e4384699bc4738bf77caf839f2d66a2",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "LU"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				6.129583,
+				49.815273
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "cda8a1ccd6a643a2eb92bb3c0c7c92d12bea8b9a",
+		"fields": {
+			"num_un": 740,
+			"geolocation": [
+				3.919305,
+				-56.027783
+			],
+			"dialing_code": "597",
+			"a3_un": "SUR",
+			"country": "Suriname",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "sr.png",
+				"width": 16,
+				"id": "13f2d313c3fb4f6705c2b744ccadbea5",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "SR"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-56.027783,
+				3.919305
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "f2761693d4c632a71e6b4950dca66db6723d4888",
+		"fields": {
+			"num_un": 860,
+			"geolocation": [
+				41.377491,
+				64.585262
+			],
+			"dialing_code": "998",
+			"a3_un": "UZB",
+			"country": "Uzbekistan",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "uz.png",
+				"width": 16,
+				"id": "5f4e38ed912e8b7c43cdc5e7b8f0b902",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "UZ"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				64.585262,
+				41.377491
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "d90702ecaef0ddbbb5164c986b30f809fc92fc30",
+		"fields": {
+			"num_un": 96,
+			"geolocation": [
+				4.535277,
+				114.727669
+			],
+			"dialing_code": "673",
+			"a3_un": "BRN",
+			"country": "Brunei Darussalam",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "bn.png",
+				"width": 16,
+				"id": "9bd7763ce8679a7267f0c17b34440a15",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "BN"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				114.727669,
+				4.535277
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "c020295de7947b3a3f05ea9d43fd637231d658d7",
+		"fields": {
+			"num_un": 776,
+			"geolocation": [
+				-21.178986,
+				-175.198242
+			],
+			"dialing_code": "676",
+			"a3_un": "TON",
+			"country": "Tonga",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "to.png",
+				"width": 16,
+				"id": "5faef7061066da6d2752b7fbc07617d4",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "TO"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-175.198242,
+				-21.178986
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "fb2f465b9043875570baa633672ea07564e3eccb",
+		"fields": {
+			"num_un": 84,
+			"geolocation": [
+				17.189877,
+				-88.49765
+			],
+			"dialing_code": "501",
+			"a3_un": "BLZ",
+			"country": "Belize",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "bz.png",
+				"width": 16,
+				"id": "3fe52b2f283d0a938dd9b70585687c1f",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "BZ"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-88.49765,
+				17.189877
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "32d31cc75b435b9a52cd10d2679481f6a5c322e4",
+		"fields": {
+			"num_un": 854,
+			"geolocation": [
+				12.238333,
+				-1.561593
+			],
+			"dialing_code": "226",
+			"a3_un": "BFA",
+			"country": "Burkina Faso",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "bf.png",
+				"width": 16,
+				"id": "5f9d21c4890880cbeb69b7285a74a2c4",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "BF"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-1.561593,
+				12.238333
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "55c35555b74abfb51c8d361fc608f909c3385d8c",
+		"fields": {
+			"num_un": 850,
+			"geolocation": [
+				17.789187,
+				-64.7080574
+			],
+			"dialing_code": "1-340",
+			"a3_un": "VIR",
+			"country": "US Virgin Islands",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "vi.png",
+				"width": 16,
+				"id": "efeadf5c0c1e550b9b0ce67c4ac35e5a",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "VI"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-64.7080574,
+				17.789187
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "22c0fe888fd798401ea8442d5acddd34486ac2cd",
+		"fields": {
+			"num_un": 368,
+			"geolocation": [
+				33.223191,
+				43.679291
+			],
+			"dialing_code": "964",
+			"a3_un": "IRQ",
+			"country": "Iraq",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "iq.png",
+				"width": 16,
+				"id": "e8298a15fe9de311ef5dd34af72ce3fa",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "IQ"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.679291,
+				33.223191
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "ac9ca546e36559516007fa00c502865195c84574",
+		"fields": {
+			"num_un": 466,
+			"geolocation": [
+				17.570692,
+				-3.996166
+			],
+			"dialing_code": "223",
+			"a3_un": "MLI",
+			"country": "Mali",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "ml.png",
+				"width": 16,
+				"id": "eed4aa6b7edc8a30af3edab01feb8be3",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "ML"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-3.996166,
+				17.570692
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "4a2365cb1d393d0b2ac4a5c3cb32369c35d6e3d1",
+		"fields": {
+			"num_un": 410,
+			"geolocation": [
+				35.3985008,
+				127.937111
+			],
+			"dialing_code": "82",
+			"a3_un": "KOR",
+			"country": "Korea, Republic of",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "kr.png",
+				"width": 16,
+				"id": "3d63751085cf55bdab8991220d7ef050",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "KR"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				127.937111,
+				35.3985008
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "49df615a18bdb8a8978504018113e07272bfec85",
+		"fields": {
+			"num_un": 16,
+			"geolocation": [
+				-14.270972,
+				-170.132217
+			],
+			"dialing_code": "1-684",
+			"a3_un": "ASM",
+			"country": "American Samoa",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "as.png",
+				"width": 16,
+				"id": "95dce0cba809c31c34e3ffd4b2c88645",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "AS"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-170.132217,
+				-14.270972
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "88645aa0211a8a6154eb3cd4b855b72004c69e47",
+		"fields": {
+			"num_un": 268,
+			"geolocation": [
+				41.6809707,
+				44.0287382
+			],
+			"dialing_code": "995",
+			"a3_un": "GEO",
+			"country": "Georgia",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "ge.png",
+				"width": 16,
+				"id": "2d330e7667dc45f4a891379372dc152d",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "GE"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				44.0287382,
+				41.6809707
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "24d98e50dc183ddc9014cbf0d0cb31197549e04c",
+		"fields": {
+			"num_un": 686,
+			"geolocation": [
+				14.497401,
+				-14.452362
+			],
+			"dialing_code": "221",
+			"a3_un": "SEN",
+			"country": "Senegal",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "sn.png",
+				"width": 16,
+				"id": "408737507aed8f63411b0af3d6d0140b",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "SN"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-14.452362,
+				14.497401
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "66b8375e9d7e36729745430b1c0cd56321a26653",
+		"fields": {
+			"num_un": 384,
+			"geolocation": [
+				7.539989,
+				-5.54708
+			],
+			"dialing_code": "225",
+			"a3_un": "CIV",
+			"country": "C\u00c3\u00b4te d'Ivoire",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "ci.png",
+				"width": 16,
+				"id": "05e9ecb92dbac5d4d4eae91f25b80da5",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "CI"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-5.54708,
+				7.539989
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "e3d5d6b6b86088a0f391040d79b1a62d95237d42",
+		"fields": {
+			"num_un": 426,
+			"geolocation": [
+				-29.609988,
+				28.233608
+			],
+			"dialing_code": "266",
+			"a3_un": "LSO",
+			"country": "Lesotho",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "ls.png",
+				"width": 16,
+				"id": "5f085cd392a82a409f2702443574cd32",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "LS"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				28.233608,
+				-29.609988
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "36acdccf34d8da05aff3cc49cc571d0b8ca9b365",
+		"fields": {
+			"num_un": 380,
+			"geolocation": [
+				41.87194,
+				12.56738
+			],
+			"dialing_code": "39",
+			"a3_un": "ITA",
+			"country": "Italy",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "it.png",
+				"width": 16,
+				"id": "76ce50f3712ddbeaf478b902174c1fff",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "IT"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				12.56738,
+				41.87194
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "43c33fbed2cc0bcfb5175ebc1513614462ae01bc",
+		"fields": {
+			"num_un": 666,
+			"geolocation": [
+				46.941936,
+				-56.27111
+			],
+			"dialing_code": "508",
+			"a3_un": "SPM",
+			"country": "Saint Pierre and Miquelon",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "pm.png",
+				"width": 16,
+				"id": "d7626d7e11fea78708022bad4e0e290f",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "PM"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-56.27111,
+				46.941936
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "b0a907085c9b9441daee983019e92d79aacde324",
+		"fields": {
+			"num_un": 300,
+			"geolocation": [
+				39.074208,
+				21.824312
+			],
+			"dialing_code": "30",
+			"a3_un": "GRC",
+			"country": "Greece",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "gr.png",
+				"width": 16,
+				"id": "eceeb86f95af3b25aff0091688079ec8",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "GR"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				21.824312,
+				39.074208
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "817574aba42a6c35ab4c8786a810b2e9099fc29e",
+		"fields": {
+			"num_un": 238,
+			"geolocation": [
+				-51.796253,
+				-59.523613
+			],
+			"dialing_code": "500",
+			"a3_un": "FLK",
+			"country": "Falkland Islands (Malvinas)",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "fk.png",
+				"width": 16,
+				"id": "2eb510a90ab16f59255108df377a48f0",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "FK"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-59.523613,
+				-51.796253
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "4b60d8483c34772d03c43fa08e3cc3be2512898d",
+		"fields": {
+			"num_un": 612,
+			"geolocation": [
+				-24.703615,
+				-127.439308
+			],
+			"dialing_code": "870",
+			"a3_un": "PCN",
+			"country": "Pitcairn",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "pn.png",
+				"width": 16,
+				"id": "ba7b30d02445954c5fe014732df81617",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "PN"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-127.439308,
+				-24.703615
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "82c5fc50fee8a169bc5610f1d60ea3259c299e13",
+		"fields": {
+			"num_un": 404,
+			"geolocation": [
+				-0.023559,
+				37.906193
+			],
+			"dialing_code": "254",
+			"a3_un": "KEN",
+			"country": "Kenya",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "ke.png",
+				"width": 16,
+				"id": "551cee5a252ed2d8c07b27544a8e8082",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "KE"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				37.906193,
+				-0.023559
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "75fecc36f078fbd7492880e72748d90b7d105fb1",
+		"fields": {
+			"num_un": 674,
+			"geolocation": [
+				43.94236,
+				12.457777
+			],
+			"dialing_code": "378",
+			"a3_un": "SMR",
+			"country": "San Marino",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "sm.png",
+				"width": 16,
+				"id": "988cdf9e1081b0595532b393cd614db2",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "SM"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				12.457777,
+				43.94236
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "f5a312ff97948cb551cb011d53cbbeb0606affa9",
+		"fields": {
+			"num_un": 728,
+			"geolocation": [
+				7.2653861,
+				30.05489
+			],
+			"dialing_code": "211",
+			"a3_un": "SSD",
+			"country": "South Sudan",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "ss.png",
+				"width": 16,
+				"id": "d743c095b9bfcd8236e1bacaaf8e557d",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "SS"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				30.05489,
+				7.2653861
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "1b296dabe0026b2e4f3b3ddf4c3ade62db4e45ea",
+		"fields": {
+			"num_un": 548,
+			"geolocation": [
+				-15.376706,
+				166.959158
+			],
+			"dialing_code": "678",
+			"a3_un": "VUT",
+			"country": "Vanuatu",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "vu.png",
+				"width": 16,
+				"id": "ac487d12134eb2140d8133c92a048e79",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "VU"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				166.959158,
+				-15.376706
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "30126a983837e9465452d29e05d6688b31b2f66b",
+		"fields": {
+			"num_un": 270,
+			"geolocation": [
+				13.443182,
+				-15.310139
+			],
+			"dialing_code": "220",
+			"a3_un": "GMB",
+			"country": "Gambia",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "gm.png",
+				"width": 16,
+				"id": "e180015141585d6c44d3a1055bd43004",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "GM"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-15.310139,
+				13.443182
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "111eb568cc694440a5c7bafab8d245f07c5ac50c",
+		"fields": {
+			"num_un": 116,
+			"geolocation": [
+				12.565679,
+				104.990963
+			],
+			"dialing_code": "855",
+			"a3_un": "KHM",
+			"country": "Cambodia",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "kh.png",
+				"width": 16,
+				"id": "1e0010bd4fa0d7c167a7dbbb7142c0e6",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "KH"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				104.990963,
+				12.565679
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "22c8c7db5f884ba36028e31b66324039fcade64c",
+		"fields": {
+			"num_un": 376,
+			"geolocation": [
+				31.046051,
+				34.851612
+			],
+			"dialing_code": "972",
+			"a3_un": "ISR",
+			"country": "Israel",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "il.png",
+				"width": 16,
+				"id": "609f091c37c0e3a1d36350e6c7b3f7c9",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "IL"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				34.851612,
+				31.046051
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "bcb2a9bce1b9974d054312a6baa7dbdd0276e368",
+		"fields": {
+			"num_un": 352,
+			"geolocation": [
+				64.963051,
+				-19.020835
+			],
+			"dialing_code": "354",
+			"a3_un": "ISL",
+			"country": "Iceland",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "is.png",
+				"width": 16,
+				"id": "59aa510f2ce9b612dc5093939cdaf8ed",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "IS"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-19.020835,
+				64.963051
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "66d529e30f6a4f359eb8a4c162f09b473ffaf657",
+		"fields": {
+			"num_un": 328,
+			"geolocation": [
+				4.860416,
+				-58.93018
+			],
+			"dialing_code": "592",
+			"a3_un": "GUY",
+			"country": "Guyana",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "gy.png",
+				"width": 16,
+				"id": "f4ebc1e311a3cc424008b71f07150e72",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "GY"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-58.93018,
+				4.860416
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "aac93dc315462df4c61803909a1bcf99b651ed93",
+		"fields": {
+			"num_un": 266,
+			"geolocation": [
+				-0.803689,
+				11.609444
+			],
+			"dialing_code": "241",
+			"a3_un": "GAB",
+			"country": "Gabon",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "ga.png",
+				"width": 16,
+				"id": "83f57d76c28fef7ddb1eb92c0da784fe",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "GA"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				11.609444,
+				-0.803689
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "f2bae50701921c376a168e2a3a404153538024af",
+		"fields": {
+			"num_un": 604,
+			"geolocation": [
+				-9.189967,
+				-75.015152
+			],
+			"dialing_code": "51",
+			"a3_un": "PER",
+			"country": "Peru",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "pe.png",
+				"width": 16,
+				"id": "78051165dbc51f0bf8d19f7f28e69e44",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "PE"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-75.015152,
+				-9.189967
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "34b84031e1818ca6e6c2d59bf511f197a1517b39",
+		"fields": {
+			"num_un": 858,
+			"geolocation": [
+				-32.522779,
+				-55.765835
+			],
+			"dialing_code": "598",
+			"a3_un": "URY",
+			"country": "Uruguay",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "uy.png",
+				"width": 16,
+				"id": "b1d074e441f8f94e37548172ab70efc9",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "UY"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-55.765835,
+				-32.522779
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "a7fd8588098948fea563852ba933ee486cac1c3e",
+		"fields": {
+			"num_un": 535,
+			"geolocation": [
+				-74.9999995,
+				-50.0
+			],
+			"dialing_code": "599",
+			"a3_un": "BES",
+			"country": "Bonaire",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "bq.png",
+				"width": 16,
+				"id": "b176dfcbcc1dbbea3ddb7f0d26dd2191",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "BQ"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-50.0,
+				-74.9999995
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "557c6704b344ea9a7bb2de6f1e4a789ab55fe897",
+		"fields": {
+			"num_un": 180,
+			"geolocation": [
+				-5.199955,
+				21.7166297
+			],
+			"dialing_code": "243",
+			"a3_un": "COD",
+			"country": "Democratic Republic of the Congo",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "cd.png",
+				"width": 16,
+				"id": "b31aafc4a9d031241900a7df201a9ede",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "CD"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				21.7166297,
+				-5.199955
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "6d436730f115ea0261ffd426a10fb99cc0467c2f",
+		"fields": {
+			"num_un": 654,
+			"geolocation": [
+				-24.143474,
+				-10.030696
+			],
+			"dialing_code": "290",
+			"a3_un": "SHN",
+			"country": "Saint Helena",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "sh.png",
+				"width": 16,
+				"id": "03bd562bc93f7e9159b37154b3d968b4",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "SH"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-10.030696,
+				-24.143474
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "d2dc68978885e9bf07183e78fc73b8d614df0173",
+		"fields": {
+			"num_un": 51,
+			"geolocation": [
+				40.069099,
+				45.038189
+			],
+			"dialing_code": "374",
+			"a3_un": "ARM",
+			"country": "Armenia",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "am.png",
+				"width": 16,
+				"id": "10345b05498ea394edc5f7a9effd7b9e",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "AM"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.038189,
+				40.069099
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "303de25694536a1866ce90cf13704dbf26b04f65",
+		"fields": {
+			"num_un": 120,
+			"geolocation": [
+				7.369722,
+				12.354722
+			],
+			"dialing_code": "237",
+			"a3_un": "CMR",
+			"country": "Cameroon",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "cm.png",
+				"width": 16,
+				"id": "a1861c128b0f2695ae7ed7f39d77ff35",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "CM"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				12.354722,
+				7.369722
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "f91140017eb38fb3705539ef43efd4bff9bd697b",
+		"fields": {
+			"num_un": 226,
+			"geolocation": [
+				1.650801,
+				10.267895
+			],
+			"dialing_code": "240",
+			"a3_un": "GNQ",
+			"country": "Equatorial Guinea",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "gq.png",
+				"width": 16,
+				"id": "d43649be43c91841b7a94451645b3281",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "GQ"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				10.267895,
+				1.650801
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "30ee0e01321a507ad34af19b2f16325ee2eb9487",
+		"fields": {
+			"num_un": 826,
+			"geolocation": [
+				55.378051,
+				-3.435973
+			],
+			"dialing_code": "44",
+			"a3_un": "GBR",
+			"country": "United Kingdom",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "gb.png",
+				"width": 16,
+				"id": "56609c062daff106a9bc4f2cdab02c8b",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "GB"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-3.435973,
+				55.378051
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "cfee610acf910d703c405ce93e5755e481910c78",
+		"fields": {
+			"num_un": 772,
+			"geolocation": [
+				-8.967363,
+				-171.855881
+			],
+			"dialing_code": "690",
+			"a3_un": "TKL",
+			"country": "Tokelau",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "tk.png",
+				"width": 16,
+				"id": "86870d2a3c9bff174ec5d5cbf614d36f",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "TK"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-171.855881,
+				-8.967363
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "063d52874091fec5044a4b3a69c75131a19e4aed",
+		"fields": {
+			"num_un": 108,
+			"geolocation": [
+				-3.373056,
+				29.918886
+			],
+			"dialing_code": "257",
+			"a3_un": "BDI",
+			"country": "Burundi",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "bi.png",
+				"width": 16,
+				"id": "f60ebf25e5c95fd56e6cf0883a9c1112",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "BI"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				29.918886,
+				-3.373056
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	},
+	{
+		"datasetid": "country-flags",
+		"recordid": "ca96874f0863d1bcbc991d7dec209d0bac21f5b9",
+		"fields": {
+			"num_un": 554,
+			"geolocation": [
+				-40.900557,
+				174.885971
+			],
+			"dialing_code": "64",
+			"a3_un": "NZL",
+			"country": "New Zealand",
+			"flag": {
+				"mimetype": "image/png",
+				"format": "PNG",
+				"filename": "nz.png",
+				"width": 16,
+				"id": "986276cd72f786bfac39e959a74295bd",
+				"height": 11,
+				"thumbnail": true
+			},
+			"a2_iso": "NZ"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				174.885971,
+				-40.900557
+			]
+		},
+		"record_timestamp": "2016-09-26T07:48:38.162+02:00"
+	}
+]

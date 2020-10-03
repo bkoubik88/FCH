@@ -1,0 +1,653 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport"
+	content="width=device-width, initial-scale=1, maximum-scale=1">
+
+
+<title>Check PEP</title>
+<meta name="description" content="PEP suche" />
+<meta name="keywords" content="pep,bank,politsich expornierte Personen" />
+<meta name="author" content="Benjamin Koubik" />
+<meta http-equiv="Cache-Control"
+	content="no-cache, no-store, must-revalidate" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Expires" content="0" />
+
+<link href="./css/bootstrap.min.css" rel="stylesheet" />
+
+<link href="//cdn.datatables.net/1.10.21/css/jquery.dataTables.min.css"
+	rel="stylesheet" />
+
+
+<link rel="stylesheet" type="text/css"
+	href="./css/jquery.transfer.css?v=0.0.3" />
+
+
+
+<link rel="stylesheet" type="text/css" href="./css/normalize.css" />
+<link rel="stylesheet" type="text/css"
+	href="./fonts/font-awesome-4.3.0/css/font-awesome.min.css" />
+
+<link rel="stylesheet" type="text/css" href="./css/icon_font.css" />
+
+
+<script src="./js/modernizr.custom.js"></script>
+<link rel="stylesheet" type="text/css" href="./css/style1.css" />
+
+<link rel="stylesheet" type="text/css" href="./css/loading.css" />
+
+<link rel="stylesheet" type="text/css" href="./css/searchBar.css" />
+
+
+<link rel="stylesheet" type="text/css" href="./css/login.css" />
+
+</head>
+
+
+
+
+<body>
+	<div class="container-fluid">
+
+		<button id="menu-toggle" class="menu-toggle">
+			<span>Menu</span>
+		</button>
+		<div id="theSidebar" class="sidebar">
+			<button class="close-button fa fa-fw fa-close"></button>
+			<span>Willkommen <span id="userid"></span></span>
+			<h1>
+
+				<span>Check</span>
+				<hr />
+
+			</h1>
+
+
+			<!-- SIDEBAR -->
+			<div class="related">
+
+				<div class="spinner-grow text-primary" role="status">
+					<span class="sr-only">Lädt...</span>
+				</div>
+
+				<canvas id="myChart" width="400" height="400"></canvas>
+
+
+				<label for="customRange2" style="margin-top: 15px">Zeitraum
+					<span class="font-weight-bold ml-2 mt-1 valueSpan"
+					style="color: #8a8888;"></span> Tag(e)
+				</label> <input type="range" class="custom-range" min="1" max="5"
+					id="customRange2" value="5">
+
+				<hr />
+
+
+
+
+				<div class="unbekannt">
+					<h3>Unbekannte PEPs</h3>
+					<div class="overflow-auto" style="height: 200px;"
+						title="Hier werden unbekannte PEPs(ID) angezeigt, also solche die weder Vorname, Nachname und Geburtsdatum besitzen sowie diejenigen welche zwar Geburtsdatum besitzen aber Vor- und Nachname unbekannt ist."
+						data-toggle='tooltip'>
+						<ul class="list-group" style="color: black;">
+
+
+						</ul>
+
+
+					</div>
+				</div>
+
+
+				<div class="atTheEnd">
+					<i class="fa fa-user fa-2x" aria-hidden="true"
+						style="position: absolute; bottom: 17px; cursor: pointer;"
+						title="Einstellungen" data-toggle='tooltip'></i> <i
+						class="fa fa-sign-out fa-2x" aria-hidden="true" id="abmelden"
+						style="position: absolute; bottom: 17px; right: 19px; cursor: pointer;"
+						title="abmelden" data-toggle='tooltip'></i>
+				</div>
+
+
+			</div>
+		</div>
+		<div id="theGrid" class="main">
+			<section class="grid">
+				<header class="top-bar">
+					<h5 style='font-weight: normal;' id='topErgebnis'>
+						Ergebnis: <span id="wieviele" style='font-weight: bold;'></span>
+					</h5>
+					<div class="row searchField" id="suche">
+						<div class="col-md-12 ">
+							<fieldset class="field-container">
+								<input type="text" id='sucheNach' placeholder="Suche..."
+									class="field" />
+								<div class="icons-container">
+									<div class="icon-search"></div>
+									<div class="icon-close">
+										<div class="x-up"></div>
+										<div class="x-down"></div>
+									</div>
+								</div>
+							</fieldset>
+
+						</div>
+
+					</div>
+
+
+
+					<div class="filter">
+
+						<div class="dropdown">
+
+							<button class="btn btn-secondary dropdown-toggle" type="button"
+								id="dropdownMenuButton" data-toggle="dropdown"
+								aria-haspopup="true" aria-expanded="false">Filter</button>
+							<div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+								<a class="dropdown-item" href="#">Beides</a> <a
+									class="dropdown-item" href="#">Weiblich</a> <a
+									class="dropdown-item" href="#">Männlich</a>
+
+							</div>
+						</div>
+						<div class="settings" title="Einstellungen">
+							<i class="fa fa-cogs" aria-hidden="true"></i>
+
+						</div>
+					</div>
+
+
+
+
+
+				</header>
+
+
+				<!-- 
+				<div
+					class="d-sm-flex align-items-center justify-content-between mb-4"
+					style="position: absolute; top: 77px; right: 11px; z-index: 9;">
+					<button type="button" class="btn btn-outline-success"
+						id="exportBtn" data-toggle='tooltip'
+						title='Exportieren Sie das Ergebnis'>Exportieren</button>
+				
+
+
+
+				</div> -->
+
+
+
+
+				<div class="container-fluid" style="margin-top: 39px;">
+
+					<div id="load">
+						<div class="word">Lädt...</div>
+					</div>
+
+					<div class="row" id="inhalt"></div>
+				</div>
+				<footer class="page-meta"> </footer>
+			</section>
+			<section class="content">
+				<div class="scroll-wrap"></div>
+				<button class="close-button">
+					<i class="fa fa-close"></i><span>schließen</span>
+				</button>
+			</section>
+		</div>
+	</div>
+
+
+	<!-- LOGIN -->
+	<div class="row">
+		<div class="col-md-12 col-xs-12 col-lg-12">
+			<section class="forms-section">
+				<h1 class="section-title">Anmelden / Passwort vergessen</h1>
+				<div class="forms">
+					<div class="form-wrapper is-active">
+						<button type="button" class="switcher switcher-login">
+							Anmelden <span class="underline"></span>
+						</button>
+						<form class="form form-login">
+							<fieldset>
+								<legend>Bitte EMail und Passwort eingeben</legend>
+								<div class="input-block">
+									<label for="email">E-Mail</label> <input id="email"
+										name="email" type="email" required>
+								</div>
+								<div class="input-block">
+									<label for="login-password">Passwort</label> <input
+										name="passwort" id="passwort" type="password" required>
+								</div>
+							</fieldset>
+							<span style='color: red;' id="hinweis"></span>
+							<button type="submit" class="btn-login" id="anmeldenBtn">anmelden</button>
+						</form>
+					</div>
+					<div class="form-wrapper">
+						<button type="button" class="switcher switcher-signup">
+							Passwort vergessen <span class="underline"></span>
+						</button>
+						<form class="form form-signup">
+							<fieldset>
+								<legend>Bitte geben Sie eIhre E-Mail Adresse ein</legend>
+								<div class="input-block">
+									<label for="signup-email">E-Mail</label> <input
+										id="signup-email" type="email" required>
+								</div>
+								<div class="input-block">
+									<label for="signup-email-wiederholen">E-Mail
+										wiederholen</label> <input id="signup-email-wiederholen" type="email"
+										required>
+								</div>
+
+							</fieldset>
+							<button type="submit" class="btn-signup">anfordern</button>
+						</form>
+					</div>
+				</div>
+			</section>
+		</div>
+	</div>
+	<!-- END LOGIN -->
+
+
+
+
+
+	<!-- Modal -->
+	<div class="modal fade" id="settingModal" tabindex="-1" role="dialog"
+		style="z-index: 9999;" aria-hidden="true" data-backdrop="static"
+		data-keyboard="false">
+		<div class="modal-dialog modal-lg" role="document">
+			<div class="modal-content">
+				<div class="modal-header">
+					<h5 class="modal-title">Übersicht</h5>
+					<button type="button" class="close" data-dismiss="modal"
+						aria-label="Close">
+						<span aria-hidden="true">&times;</span>
+					</button>
+				</div>
+				<ul class="nav nav-tabs" id="myTab" role="tablist">
+					<li class="nav-item"><a class="nav-link active uebersicht"
+						id="home-tab" data-toggle="tab" href="#home" role="tab"
+						aria-controls="home" aria-selected="true">Übersicht</a></li>
+					<li class="nav-item"><a class="nav-link zeigeFirmen"
+						id="profile-tab" data-toggle="tab" href="#profile" role="tab"
+						aria-controls="profile" aria-selected="false">Firmen/Kunden</a></li>
+					<li class="nav-item"><a class="nav-link" id="contact-tab"
+						data-toggle="tab" href="#contact" role="tab"
+						aria-controls="contact" aria-selected="false">Einstellungen</a></li>
+				</ul>
+				<div class="modal-body">
+					<div class="tab-content" id="myTabContent">
+						<div class="tab-pane fade show active" id="home" role="tabpanel"
+							aria-labelledby="home-tab">
+
+							<div class="row">
+								<div class="col-md-6">
+									<canvas id="settingChart" width="400" height="400"></canvas>
+
+								</div>
+								<div class="col-md-6">
+									<canvas id="proFirma" width="400" height="400"></canvas>
+								</div>
+
+							</div>
+
+
+
+						</div>
+						<div class="tab-pane fade" id="profile" role="tabpanel"
+							aria-labelledby="profile-tab">
+
+							<div class="row">
+
+								<div class="col-md-12">
+									<h3>Kunden</h3>
+									<button type="button" class="btn btn-success"
+										style="float: right; margin-bottom: 5px;" id='neuerKunde'>Neu+</button>
+
+
+									<table id="firmenTabelle" class="display" style="width: 100%">
+										<thead>
+											<tr>
+												<th>Firma</th>
+												<th></th>
+												<th></th>
+												<th></th>
+											</tr>
+										</thead>
+										<tbody id="firmenListe">
+
+										</tbody>
+									</table>
+
+
+								</div>
+
+
+							</div>
+
+						</div>
+						<div class="tab-pane fade" id="contact" role="tabpanel"
+							aria-labelledby="contact-tab">
+
+							<h5>Anzeige von:</h5>
+							<p></p>
+							<div class="row">
+
+								<div class="col-md-6" style="text-align: center;">
+									<div class="custom-control custom-switch"
+										style="margin-top: 15px">
+										<input type="checkbox" checked="checked"
+											class="custom-control-input" id="nur_Pep"> <label
+											class="custom-control-label" for="nur_Pep">PEP Liste</label>
+									</div>
+								</div>
+								<div class="col-md-6" style="text-align: center;">
+									<div class="custom-control custom-switch"
+										style="margin-top: 15px">
+										<input type="checkbox" class="custom-control-input"
+											id="nur_Sankt"> <label class="custom-control-label"
+											for="nur_Sankt">Sanktions Liste</label>
+									</div>
+								</div>
+
+
+							</div>
+							<hr />
+							<div class="row">
+								<div class="col-md-12" style='text-align: center;'>
+									<p>Stellen Sie ein ob Sie immer eine exakte Suche haben
+										wollen, oder eine allgemeine. Letztere liefert möglicherweise
+										mehr Ergebnisse.
+									<div class="form-check" id="formExakteSuche"
+										style="margin-left: 15px;">
+										<input type="checkbox" checked="checked"
+											class="form-check-input" id="exakteSuche"> <label
+											class="form-check-label" for="exakteSuche"
+											data-toggle='tooltip'
+											title='Wenn Sie diesen Haken setzen, wird exakt nach Ihrer Eingabe gesucht.'>exakte
+											Suche</label>
+									</div>
+								</div>
+							</div>
+
+						</div>
+
+
+						<div class="modal-footer">
+							<button type="button" class="btn btn-secondary"
+								data-dismiss="modal">schließen</button>
+
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+
+	<div class="modal fade" id="neueFirmaModal" tabindex="-1" role="dialog"
+		aria-hidden="true" style="z-index: 99999;" data-backdrop="static"
+		data-keyboard="false">
+		<div class="modal-dialog modal-lg" role="document">
+			<div class="modal-content">
+				<div class="modal-header">
+					<h5 class="modal-title">Neue Firma</h5>
+
+				</div>
+				<div class="modal-body">
+					<div class="row">
+						<div class="col-md-6">
+							<div class="form-group">
+								<input type="text" placeholder="Firmenname*"
+									class="form-control" id="firmenname" required="required">
+							</div>
+						</div>
+						<div class="col-md-6">
+							<div class="form-group">
+								<input type="text" placeholder="Firmen-Id*" class="form-control"
+									id="firmenId" required="required">
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="row"
+					style="text-align: right; margin-bottom: 10px; margin-right: 9px;">
+					<div class="col-md-12">
+
+						<button class="btn btn-primary" type="button" id="firmaAnlegen"
+							aria-expanded="false" aria-controls="collapseExample">Firma
+							anlegen & Kunden hinzufügen</button>
+
+					</div>
+
+				</div>
+				<div class="collapse" id="collapseExample">
+
+					<div class="card card-body">
+						<h5 style="margin-bottom: 20px;">Kunde zur Firma hinzufügen</h5>
+						<div class="row">
+							<div class="col-md-3">
+								<select class="custom-select" required="required"
+									id="neuKundeAnrede">
+									<option value="" selected>Anrede*</option>
+									<option value="Herr">Herr</option>
+									<option value="Frau">Frau</option>
+								</select>
+							</div>
+							<div class="col-md-9"></div>
+						</div>
+						<div class="row" style="margin-top: 20px;">
+							<div class="col-md-6">
+								<input type="text" class="form-control" placeholder="Vorname*"
+									id="neuKundeVorname" required="required" />
+							</div>
+							<div class="col-md-6">
+								<input type="text" class="form-control" placeholder="Nachname*"
+									id="neuKundeNachname" required="required" />
+							</div>
+							<div class="col-md-12" style="margin-top: 20px;">
+								<input type="email" class="form-control" placeholder="Email*"
+									id="neuKundeEmail" required="required" />
+							</div>
+							<hr></hr>
+							<div class="col-md-12" style="margin-top: 20px;">
+								<div class="firma"></div>
+
+							</div>
+							<div class="col-md-12"
+								style="margin-top: 20px; margin-left: 20px;">
+								<ul id="bereitsHinzugefuegt">
+
+								</ul>
+							</div>
+						</div>
+						<div class="row" style="margin-top: 20px; text-align: right;">
+							<div class="col-md-12">
+								<button type="button" class="btn btn-primary"
+									id="weiterenKunden">weiteren Kunden hinzufügen</button>
+								<button type="button" class="btn btn-info" id="kundenUbernehmen">übernehmen</button>
+							</div>
+
+						</div>
+
+					</div>
+				</div>
+				<div class="modal-footer">
+					<button type="button" class="btn btn-secondary"
+						id="neueFirmaSchließen">schließen</button>
+
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+
+
+
+	<div class="modal fade" id="firmenRechnungModal" tabindex="-1"
+		role="dialog" aria-hidden="true" style="z-index: 99999;"
+		data-backdrop="static" data-keyboard="false">
+		<div class="modal-dialog modal-sm" role="document">
+			<div class="modal-content">
+				<div class="modal-header">
+					<h5 class="modal-title">Rechnung erstellen</h5>
+				</div>
+				<div class="modal-body">
+					<div class="row">
+						<div class="col-md-12">
+							<input type="number" placeholder="Betrag" class="form-control" min="0"  step=".01"
+								id="betrag">
+						</div>
+						<div class="col-md-12" style="text-align:right;">
+							<div class="form-check" id="merkenCheck"
+								style="margin-left: 15px;">
+								<input type="checkbox" checked="checked"
+									class="form-check-input" id="merken"> <label
+									class="form-check-label" for="merken" data-toggle='tooltip'
+									title='Einstellungen merken.'>merken</label>
+							</div>
+
+						</div>
+						
+						<div class="col-md-12">
+							<button type="button" class="btn btn-success" style="width:100%; margin-top:20px;"
+								id="rechnungJetztErstellen">erstellen</button>
+						</div>
+					</div>
+
+				</div>
+
+
+				<div class="modal-footer">
+
+					<button type="button" class="btn btn-secondary"
+						id="rechnungErstellenFirmaSchließen">schließen</button>
+
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+
+	<div class="modal fade" id="zeigeFirmenKModal" tabindex="-1"
+		role="dialog" aria-hidden="true" style="z-index: 99999;"
+		data-backdrop="static" data-keyboard="false">
+		<div class="modal-dialog modal-lg" role="document">
+			<div class="modal-content">
+				<div class="modal-header">
+					<h5 class="modal-title">Kunden</h5>
+
+				</div>
+				<div class="modal-body">
+
+					<table id="kundenEinerFirma" class="display" style="width: 100%">
+						<thead>
+							<tr>
+								<th>Vorname</th>
+								<th>Nachname</th>
+								<th>EMail</th>
+								<th></th>
+							</tr>
+						</thead>
+						<tbody id="zeigeFirmenK">
+
+						</tbody>
+					</table>
+				</div>
+
+
+				<div class="modal-footer">
+
+					<button type="button" class="btn btn-secondary"
+						id="firmenKundenModalClose">schließen</button>
+
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+
+	<div class="modal fade" id="firmaEntf" tabindex="-1" role="dialog"
+		aria-hidden="true" style="z-index: 99999;" data-backdrop="static"
+		data-keyboard="false">
+		<div class="modal-dialog modal-lg" role="document">
+			<div class="modal-content">
+				<div class="modal-header">
+					<h5 class="modal-title">Achtung!</h5>
+
+				</div>
+				<div class="modal-body">
+					<h4 style="color: red;" class="textLoeschen">Wollen Sie wirklich diese Firma
+						löschen ? Damit gehen alle Daten sowie deren zugeordnete Kunden
+						unwiederruflich verloren</h4>
+
+				</div>
+
+
+				<div class="modal-footer">
+					<button type="button" class="btn btn-secondary"
+						id="jaFirmaEntfernen">Ja ich bin mir sicher</button>
+					<button type="button" class="btn btn-secondary" id="nein">Nein,
+						verlassen</button>
+
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+	<!-- /container -->
+
+	<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+
+
+
+	<script
+		src='https://cdnjs.cloudflare.com/ajax/libs/lettering.js/0.6.1/jquery.lettering.min.js'></script>
+
+
+	<script type="text/javascript" src="./js/popper.min.js">
+		
+	</script>
+
+	<script type="text/javascript" src="./js/bootstrap.min.js">
+		
+	</script>
+
+	<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+
+	<script src="//cdn.datatables.net/1.10.21/js/jquery.dataTables.min.js"></script>
+
+
+	<script type="text/javascript" src="./js/script.js"></script>
+
+
+	<script src="./js/classie.js"></script>
+
+	<script src="./js/Chart.bundle.min.js"></script>
+
+
+	<script src="./js/notify.min.js"></script>
+
+	<script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+
+
+	<!-- <script src="./js/login.js"></script> -->
+
+
+
+</body>
+</html>
